@@ -1,0 +1,7 @@
+com\briup\mr\RowCountMR.class
+com\briup\base\ApiTest.class
+com\briup\mr\RowCountMR$RCReducer.class
+com\briup\base\exercise\ConnectHbase.class
+com\briup\base\exercise\CreateTable.class
+com\briup\base\exercise\HbaseApi.class
+com\briup\mr\RowCountMR$RCMapper.class

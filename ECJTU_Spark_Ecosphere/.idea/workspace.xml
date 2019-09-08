@@ -1,0 +1,1144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="streamproject:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1a197c7d-3134-4993-bb4f-86d7c5791a35" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/Scala/target/" />
+    <ignored path="$PROJECT_DIR$/Spark/target/" />
+    <ignored path="$PROJECT_DIR$/test/target/" />
+    <ignored path="$PROJECT_DIR$/Streaming_web/target/" />
+    <ignored path="$PROJECT_DIR$/streamproject/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="ECJTU_Spark_Ecosphere" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Spark/src/main/scala/com/briup/streamingProject/project.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="314">
+              <caret line="23" column="52" selection-start-line="23" selection-start-column="52" selection-end-line="23" selection-end-column="52" />
+              <folding>
+                <element signature="e#36#61#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Spark/src/main/scala/com/briup/shangji/Father.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="84">
+              <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+              <folding>
+                <element signature="e#83#84#0" expanded="true" />
+                <element signature="e#120#121#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Spark/src/main/scala/com/briup/shangji/Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="140">
+              <caret line="5" column="28" lean-forward="true" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Spark/src/main/scala/com/briup/shangji/Son.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="84">
+              <caret line="3" column="17" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="17" />
+              <folding>
+                <element signature="e#95#96#0" expanded="true" />
+                <element signature="e#132#133#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Scala Object" />
+        <option value="Package Object" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>RichInt</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Spark/src/main/scala/com/briup/sql/DFAndDSTest.scala" />
+        <option value="$PROJECT_DIR$/Spark/files/ssa_names/yob1880.txt" />
+        <option value="$PROJECT_DIR$/Spark/src/main/scala/com/briup/sql/IOTest.scala" />
+        <option value="$PROJECT_DIR$/Spark/src/main/scala/com/briup/sql/WindowFunTest.scala" />
+        <option value="$PROJECT_DIR$/Spark/src/main/scala/com/briup/sql/BabyDataAnalysis.scala" />
+        <option value="$PROJECT_DIR$/Spark/src/main/scala/com/briup/sql/Order.scala" />
+        <option value="$PROJECT_DIR$/Spark/src/main/scala/com/briup/stream/MassageServer.scala" />
+        <option value="$PROJECT_DIR$/Spark/src/main/scala/com/briup/stream/OldApiTest.scala" />
+        <option value="$PROJECT_DIR$/Spark/src/main/scala/com/briup/stream/SocketSourceTest.scala" />
+        <option value="$PROJECT_DIR$/Spark/src/main/scala/com/briup/stream/TextFileSource.scala" />
+        <option value="$PROJECT_DIR$/Spark/src/main/scala/com/briup/stream/TextFileSourceTest.scala" />
+        <option value="$PROJECT_DIR$/Spark/files/jsonfile/Test2.json" />
+        <option value="$PROJECT_DIR$/Spark/src/main/scala/com/briup/streaming/JsonFileSourceTest.scala" />
+        <option value="$PROJECT_DIR$/Spark/pom.xml" />
+        <option value="$PROJECT_DIR$/Spark/src/main/scala/com/briup/sql/package.scala" />
+        <option value="$PROJECT_DIR$/Spark/src/main/scala/com/briup/streaming/package.scala" />
+        <option value="$PROJECT_DIR$/Spark/files/blackeListFile" />
+        <option value="$PROJECT_DIR$/Spark/src/main/scala/com/briup/mapGroupOperator/MapGroupWithState.scala" />
+        <option value="$PROJECT_DIR$/Spark/src/main/scala/com/briup/mapGroupOperator/StructuredSessionization.scala" />
+        <option value="$PROJECT_DIR$/Streaming_web/pom.xml" />
+        <option value="$PROJECT_DIR$/Spark/src/main/scala/com/briup/streaming/BlackListMain.scala" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/streaming_web/pom.xml" />
+        <option value="$PROJECT_DIR$/streaming_web/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/streamproject/pom.xml" />
+        <option value="$PROJECT_DIR$/streamproject/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/streamproject/src/main/java/com/briup/streamproject/StreamprojectApplication.java" />
+        <option value="$PROJECT_DIR$/streamproject/src/main/java/com/briup/streamproject/service/impl/ShopUserServiceImpl.java" />
+        <option value="$PROJECT_DIR$/Spark/src/main/scala/com/briup/streaming/SocketSourceTest.scala" />
+        <option value="$PROJECT_DIR$/Spark/src/main/scala/com/briup/streaming/KafkaSourceTest.scala" />
+        <option value="$PROJECT_DIR$/Spark/src/main/scala/com/briup/streaming/WindowsOper.scala" />
+        <option value="$PROJECT_DIR$/Spark/src/main/scala/com/briup/streamingProject/project.scala" />
+        <option value="$PROJECT_DIR$/Spark/src/main/scala/com/briup/shangji/Test2.java" />
+        <option value="$PROJECT_DIR$/Spark/files/ihaveadream.txt" />
+        <option value="$PROJECT_DIR$/Spark/src/main/scala/com/briup/shangji/Test4.java" />
+        <option value="$PROJECT_DIR$/Spark/src/main/scala/com/briup/shangji/Test1.java" />
+        <option value="$PROJECT_DIR$/Spark/src/main/scala/com/briup/shangji/Set.java" />
+        <option value="$PROJECT_DIR$/Spark/src/main/scala/com/briup/shangji/Test5.java" />
+        <option value="$PROJECT_DIR$/Spark/src/main/scala/com/briup/shangji/test6/Rectangle.java" />
+        <option value="$PROJECT_DIR$/Spark/src/main/scala/com/briup/shangji/test6/Cuboid.java" />
+        <option value="$PROJECT_DIR$/Spark/src/main/scala/com/briup/shangji/test6/Test.java" />
+        <option value="$PROJECT_DIR$/Spark/src/main/scala/com/briup/shangji/Test3.java" />
+        <option value="$PROJECT_DIR$/Spark/src/main/scala/com/briup/shangji/io/FileRead.java" />
+        <option value="$PROJECT_DIR$/Spark/files/test.txt" />
+        <option value="$PROJECT_DIR$/Spark/src/main/scala/com/briup/shangji/io/FileReadTest.java" />
+        <option value="$PROJECT_DIR$/Spark/src/main/scala/com/briup/shangji/io/InputStreamTest.java" />
+        <option value="$PROJECT_DIR$/Spark/src/main/scala/com/briup/core/TopicRDDTest.scala" />
+        <option value="$PROJECT_DIR$/Spark/src/main/scala/com/briup/streamingProject/GoodMain.scala" />
+        <option value="$PROJECT_DIR$/Spark/src/main/scala/com/briup/shangji/Father.java" />
+        <option value="$PROJECT_DIR$/Spark/src/main/scala/com/briup/shangji/Son.java" />
+        <option value="$PROJECT_DIR$/Spark/src/main/scala/com/briup/shangji/Test.java" />
+      </list>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="E:/apache-maven-3.3.9" />
+        <option name="userSettingsFile" value="E:\apache-maven-3.3.9\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="downloadSourcesAutomatically" value="true" />
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="streamproject" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="streamproject" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="245" />
+    <option name="y" value="295" />
+    <option name="width" value="1390" />
+    <option name="height" value="910" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ECJTU_Spark_Ecosphere" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ECJTU_Spark_Ecosphere" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ECJTU_Spark_Ecosphere" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ECJTU_Spark_Ecosphere" type="462c0819:PsiDirectoryNode" />
+              <item name="Spark" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ECJTU_Spark_Ecosphere" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ECJTU_Spark_Ecosphere" type="462c0819:PsiDirectoryNode" />
+              <item name="Spark" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ECJTU_Spark_Ecosphere" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ECJTU_Spark_Ecosphere" type="462c0819:PsiDirectoryNode" />
+              <item name="Spark" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ECJTU_Spark_Ecosphere" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ECJTU_Spark_Ecosphere" type="462c0819:PsiDirectoryNode" />
+              <item name="Spark" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ECJTU_Spark_Ecosphere" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ECJTU_Spark_Ecosphere" type="462c0819:PsiDirectoryNode" />
+              <item name="Spark" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="briup" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ECJTU_Spark_Ecosphere" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ECJTU_Spark_Ecosphere" type="462c0819:PsiDirectoryNode" />
+              <item name="Spark" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="briup" type="462c0819:PsiDirectoryNode" />
+              <item name="shangji" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="oracle" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1567522458145" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.23771581" />
+    <property name="project.structure.side.proportion" value="0.46991038" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.repository.indices" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.briup.shangji" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\idea-hadoop-workpace\ECJTU_Spark_Ecosphere\Spark\src" />
+      <recent name="D:\idea-hadoop-workpace\ECJTU_Spark_Ecosphere\streamproject\src\main\resources" />
+      <recent name="D:\idea-hadoop-workpace\ECJTU_Spark_Ecosphere\streamproject\src\main\java\com\example\streamproject" />
+      <recent name="D:\idea-hadoop-workpace\ECJTU_Spark_Ecosphere\streaming_web\src\main\resources" />
+      <recent name="D:\idea-hadoop-workpace\ECJTU_Spark_Ecosphere\streaming_web\src\main\java" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="scala.day5" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\idea-hadoop-workpace\ECJTU_Spark_Ecosphere\Spark\files\jsonfile\month=08\day=20" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Test (1)">
+    <configuration name="FileReadTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.briup.shangji.io.FileReadTest" />
+      <module name="Spark" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.briup.shangji.io.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InputStreamTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.briup.shangji.io.InputStreamTest" />
+      <module name="Spark" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.briup.shangji.io.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.briup.shangji.Test" />
+      <module name="Spark" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.briup.shangji.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.briup.shangji.test6.Test" />
+      <module name="Spark" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.briup.shangji.test6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.briup.shangji.Test3" />
+      <module name="Spark" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.briup.shangji.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat 8.5.351" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.351" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8090/streamproject_war_exploded/" />
+      <option name="BROWSER_ID" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="streamproject:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/streamproject_war_exploded" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_ECJTU_Spark_Ecosphere_3" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="55671" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="streamproject:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Test3" />
+      <item itemvalue="Application.Test" />
+      <item itemvalue="Application.FileReadTest" />
+      <item itemvalue="Application.InputStreamTest" />
+      <item itemvalue="Tomcat Server.Tomcat 8.5.351" />
+      <item itemvalue="Application.Test (1)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Test (1)" />
+        <item itemvalue="Application.InputStreamTest" />
+        <item itemvalue="Application.FileReadTest" />
+        <item itemvalue="Application.Test3" />
+        <item itemvalue="Application.Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Administrator\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1a197c7d-3134-4993-bb4f-86d7c5791a35" name="Default Changelist" comment="" />
+      <created>1563848633703</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1563848633703</updated>
+      <workItem from="1563848641269" duration="13144000" />
+      <workItem from="1564014571556" duration="20504000" />
+      <workItem from="1564101458706" duration="2815000" />
+      <workItem from="1564105820421" duration="18344000" />
+      <workItem from="1564187482780" duration="6955000" />
+      <workItem from="1564280983988" duration="875000" />
+      <workItem from="1564362368177" duration="20737000" />
+      <workItem from="1564409856273" duration="2670000" />
+      <workItem from="1564448815794" duration="6442000" />
+      <workItem from="1564493106214" duration="1506000" />
+      <workItem from="1564496977412" duration="769000" />
+      <workItem from="1564532376332" duration="11070000" />
+      <workItem from="1564620433560" duration="11954000" />
+      <workItem from="1564707992771" duration="1199000" />
+      <workItem from="1564967093355" duration="9787000" />
+      <workItem from="1564986469393" duration="2472000" />
+      <workItem from="1564991472154" duration="4690000" />
+      <workItem from="1565052173642" duration="21779000" />
+      <workItem from="1565096230365" duration="1159000" />
+      <workItem from="1565139005493" duration="20279000" />
+      <workItem from="1565178166230" duration="2596000" />
+      <workItem from="1565182446488" duration="6502000" />
+      <workItem from="1565225470488" duration="11281000" />
+      <workItem from="1565268704158" duration="6162000" />
+      <workItem from="1565310297089" duration="18858000" />
+      <workItem from="1565489143637" duration="776000" />
+      <workItem from="1565533683248" duration="773000" />
+      <workItem from="1565571748073" duration="14461000" />
+      <workItem from="1565656340451" duration="15584000" />
+      <workItem from="1565700982834" duration="1196000" />
+      <workItem from="1565744117050" duration="27886000" />
+      <workItem from="1565786970937" duration="7207000" />
+      <workItem from="1565829144225" duration="9217000" />
+      <workItem from="1565876976448" duration="5530000" />
+      <workItem from="1565915625613" duration="8470000" />
+      <workItem from="1566121865636" duration="939000" />
+      <workItem from="1566174563023" duration="2674000" />
+      <workItem from="1566182156954" duration="6362000" />
+      <workItem from="1566261991277" duration="12446000" />
+      <workItem from="1566305737167" duration="602000" />
+      <workItem from="1566348686123" duration="12631000" />
+      <workItem from="1566436070128" duration="4893000" />
+      <workItem from="1566521819153" duration="5489000" />
+      <workItem from="1566554946341" duration="4302000" />
+      <workItem from="1566566334752" duration="1880000" />
+      <workItem from="1566622241479" duration="7251000" />
+      <workItem from="1566781312061" duration="21416000" />
+      <workItem from="1566828049512" duration="737000" />
+      <workItem from="1566866297107" duration="4476000" />
+      <workItem from="1566954990105" duration="746000" />
+      <workItem from="1566980522700" duration="7899000" />
+      <workItem from="1566997570379" duration="636000" />
+      <workItem from="1567038920513" duration="11867000" />
+      <workItem from="1567085246612" duration="2987000" />
+      <workItem from="1567127805504" duration="2563000" />
+      <workItem from="1567155396231" duration="455000" />
+      <workItem from="1567386470180" duration="1285000" />
+      <workItem from="1567515187920" duration="2161000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="BlackListMain_blackListTable - 2019.08.21 at 15h 25m 14s.xml">
+      <configuration name="BlackListMain.blackListTable" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BlackListMain_blackListTable - 2019.08.21 at 15h 31m 21s.xml">
+      <configuration name="BlackListMain.blackListTable" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BlackListMain_blackListTable - 2019.08.21 at 15h 31m 56s.xml">
+      <configuration name="BlackListMain.blackListTable" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BlackListMain_blackListTable - 2019.08.21 at 15h 36m 44s.xml">
+      <configuration name="BlackListMain.blackListTable" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BlackListMain_blackListTable - 2019.08.21 at 15h 39m 07s.xml">
+      <configuration name="BlackListMain.blackListTable" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BlackListMain_blackListTable - 2019.08.21 at 15h 41m 08s.xml">
+      <configuration name="BlackListMain.blackListTable" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BlackListMain_blackListTable - 2019.08.21 at 15h 46m 51s.xml">
+      <configuration name="BlackListMain.blackListTable" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BlackListMain_blackListTable - 2019.08.21 at 15h 49m 47s.xml">
+      <configuration name="BlackListMain.blackListTable" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BlackListMain_blackListTable - 2019.08.21 at 15h 49m 58s.xml">
+      <configuration name="BlackListMain.blackListTable" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_streamproject - 2019.08.23 at 21h 44m 42s.xml">
+      <configuration name="All in streamproject" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="432346000" />
+  </component>
+  <component name="TodoView" selected-index="2">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info id="Web" order="0" side_tool="true" />
+      <window_info id="Designer" order="1" />
+      <window_info id="UI Designer" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Favorites" order="4" sideWeight="0.50553507" side_tool="true" weight="0.32841823" />
+      <window_info id="Image Layers" order="5" />
+      <window_info content_ui="combo" id="Project" order="6" sideWeight="0.34686348" visible="true" weight="0.20978552" />
+      <window_info id="Structure" order="7" sideWeight="0.65313655" side_tool="true" weight="0.32841823" />
+      <window_info anchor="bottom" id="Spring" order="0" />
+      <window_info anchor="bottom" id="Docker" order="1" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" sideWeight="0.49932975" weight="0.23055163" />
+      <window_info anchor="bottom" id="Database Changes" order="4" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="5" sideWeight="0.50067025" side_tool="true" weight="0.3592645" />
+      <window_info anchor="bottom" id="Message" order="6" />
+      <window_info anchor="bottom" id="Find" order="7" weight="0.32956153" />
+      <window_info anchor="bottom" id="Run" order="8" sideWeight="0.49731904" weight="0.32673267" />
+      <window_info anchor="bottom" id="Debug" order="9" weight="0.84441304" />
+      <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.49798927" weight="0.38330975" />
+      <window_info anchor="bottom" id="Inspection" order="12" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="13" weight="0.32956153" />
+      <window_info anchor="bottom" id="Java Enterprise" order="14" weight="0.32956153" />
+      <window_info anchor="bottom" id="Application Servers" order="15" sideWeight="0.49932975" weight="0.39321074" />
+      <window_info anchor="right" id="Theme Preview" order="0" />
+      <window_info anchor="right" id="Database" order="1" weight="0.17895442" />
+      <window_info anchor="right" id="Capture Analysis" order="2" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.14678285" />
+      <window_info anchor="right" id="Palette" order="5" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
+      <window_info anchor="right" id="Bean Validation" order="9" weight="0.3297587" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Web" order="0" side_tool="true" />
+      <window_info id="Designer" order="1" />
+      <window_info id="UI Designer" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Favorites" order="4" sideWeight="0.50453174" side_tool="true" weight="0.23592493" />
+      <window_info id="Image Layers" order="5" />
+      <window_info active="true" content_ui="combo" id="Project" order="6" sideWeight="0.4954683" visible="true" weight="0.29490617" />
+      <window_info id="Structure" order="7" sideWeight="0.50453174" side_tool="true" weight="0.23592493" />
+      <window_info anchor="bottom" id="Spring" order="0" />
+      <window_info anchor="bottom" id="Docker" order="1" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" sideWeight="0.49932975" weight="0.23055163" />
+      <window_info anchor="bottom" id="Database Changes" order="4" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="5" sideWeight="0.50067025" side_tool="true" weight="0.3592645" />
+      <window_info anchor="bottom" id="Message" order="6" />
+      <window_info anchor="bottom" id="Find" order="7" weight="0.32956153" />
+      <window_info anchor="bottom" id="Run" order="8" sideWeight="0.49731904" visible="true" weight="0.19660537" />
+      <window_info anchor="bottom" id="Debug" order="9" weight="0.84441304" />
+      <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.49798927" weight="0.3536068" />
+      <window_info anchor="bottom" id="Inspection" order="12" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="13" weight="0.32956153" />
+      <window_info anchor="bottom" id="Java Enterprise" order="14" weight="0.32956153" />
+      <window_info anchor="bottom" id="Application Servers" order="15" sideWeight="0.49932975" weight="0.39321074" />
+      <window_info anchor="right" id="Theme Preview" order="0" />
+      <window_info anchor="right" id="Database" order="1" weight="0.17895442" />
+      <window_info anchor="right" id="Capture Analysis" order="2" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.14678285" />
+      <window_info anchor="right" id="Palette" order="5" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
+      <window_info anchor="right" id="Bean Validation" order="9" weight="0.3297587" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="hadoop" />
+    <option name="LAST_COMMIT_MESSAGE" value="hadoop" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Spark/src/main/scala/com/briup/streaming/TextFileSourceTest.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28">
+          <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spark/src/main/scala/com/briup/streaming/KafkaSourceTest.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="21" column="15" selection-start-line="21" selection-start-column="15" selection-end-line="21" selection-end-column="15" />
+          <folding>
+            <element signature="e#29#86#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spark/src/main/scala/com/briup/sql/BabyDataAnalysis.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="19" column="21" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spark/src/main/scala/com/briup/streaming/WindowsOper.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="412">
+          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spark/src/main/scala/com/briup/sql/package.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="5" column="20" lean-forward="true" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spark/src/main/scala/com/briup/streaming/package.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="6" column="34" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/apache-maven-3.3.9/repository/org/apache/spark/spark-sql_2.11/2.4.3/spark-sql_2.11-2.4.3-sources.jar!/org/apache/spark/sql/KeyValueGroupedDataset.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="278" column="95" selection-start-line="278" selection-start-column="95" selection-end-line="278" selection-end-column="95" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spark/src/main/scala/com/briup/streaming/JsonFileSourceTest.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-140">
+          <caret line="7" column="7" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spark/src/main/scala/com/briup/mapGroupOperator/StructuredSessionization.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="44" column="32" selection-start-line="44" selection-start-column="32" selection-end-line="44" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spark/src/main/scala/com/briup/mapGroupOperator/MapGroupWithState.scala">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://E:/apache-maven-3.3.9/repository/org/apache/spark/spark-core_2.11/2.4.3/spark-core_2.11-2.4.3-sources.jar!/org/apache/spark/shuffle/sort/SortShuffleManager.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1410">
+          <caret line="220" column="21" selection-start-line="220" selection-start-column="21" selection-end-line="220" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/apache-maven-3.3.9/repository/org/apache/spark/spark-core_2.11/2.4.3/spark-core_2.11-2.4.3-sources.jar!/org/apache/spark/mapred/SparkHadoopMapRedUtil.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="38" column="6" selection-start-line="38" selection-start-column="6" selection-end-line="38" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spark/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2772" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spark/files/blackListFile.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/lang/Math.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="642" column="25" selection-start-line="642" selection-start-column="25" selection-end-line="642" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spark/src/main/scala/com/briup/shangji/Test2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spark/src/main/scala/com/briup/shangji/Test1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10">
+          <caret line="6" column="23" lean-forward="true" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+          <folding>
+            <element signature="e#260#261#0" expanded="true" />
+            <element signature="e#303#304#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spark/src/main/scala/com/briup/shangji/Set.java" />
+    <entry file="file://$PROJECT_DIR$/Spark/src/main/scala/com/briup/shangji/Test5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="598">
+          <caret line="32" column="28" lean-forward="true" selection-start-line="32" selection-start-column="28" selection-end-line="32" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/util/Random.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="142">
+          <caret line="327" column="15" selection-start-line="327" selection-start-column="15" selection-end-line="327" selection-end-column="15" />
+          <folding>
+            <element signature="e#11985#11986#0" expanded="true" />
+            <element signature="e#12016#12017#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spark/src/main/scala/com/briup/shangji/test6/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/lang/AutoCloseable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="756">
+          <caret line="50" column="17" selection-start-line="50" selection-start-column="17" selection-end-line="50" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/io/Closeable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="262">
+          <caret line="36" column="40" selection-start-line="36" selection-start-column="40" selection-end-line="36" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/io/InputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="394">
+          <caret line="44" column="50" selection-start-line="44" selection-start-column="50" selection-end-line="44" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/lang/Readable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="318">
+          <caret line="35" column="3" lean-forward="true" selection-start-line="35" selection-start-column="3" selection-end-line="35" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/io/Reader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="50" column="44" lean-forward="true" selection-start-line="50" selection-start-column="44" selection-end-line="50" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spark/src/main/scala/com/briup/shangji/test6/Rectangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+          <folding>
+            <element signature="e#248#249#0" expanded="true" />
+            <element signature="e#277#278#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spark/src/main/scala/com/briup/shangji/test6/Cuboid.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="9" column="73" selection-start-line="9" selection-start-column="73" selection-end-line="9" selection-end-column="73" />
+          <folding>
+            <element signature="e#239#240#0" expanded="true" />
+            <element signature="e#321#322#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spark/src/main/scala/com/briup/shangji/Test4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="3" column="15" selection-start-line="3" selection-start-column="15" selection-end-line="3" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/io/DataInput.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28">
+          <caret line="144" column="30" selection-start-line="144" selection-start-column="30" selection-end-line="144" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/io/DataInputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="86">
+          <caret line="42" column="64" selection-start-line="42" selection-start-column="64" selection-end-line="42" selection-end-column="64" />
+          <folding>
+            <element signature="e#1026#1027#0" expanded="true" />
+            <element signature="e#1051#1052#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spark/src/ihaveadream.txt" />
+    <entry file="file://$PROJECT_DIR$/Spark/files/test.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spark/src/main/scala/com/briup/shangji/Test3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="26" lean-forward="true" selection-start-column="26" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spark/files/ihaveadream.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2128">
+          <caret line="76" column="11" lean-forward="true" selection-start-line="76" selection-start-column="11" selection-end-line="76" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spark/files/info.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="183" column="25" lean-forward="true" selection-start-line="183" selection-start-column="25" selection-end-line="183" selection-end-column="25" />
+          <folding>
+            <element signature="e#4677#4678#0" expanded="true" />
+            <element signature="e#4714#4715#0" expanded="true" />
+            <element signature="e#94598#94599#0" expanded="true" />
+            <element signature="e#94636#94637#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spark/src/main/scala/com/briup/shangji/io/FileReadTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/io/PipedInputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1829">
+          <caret line="136" column="11" selection-start-line="136" selection-start-column="11" selection-end-line="136" selection-end-column="11" />
+          <folding>
+            <element signature="e#4196#4197#0" expanded="true" />
+            <element signature="e#4239#4240#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/io/PipedOutputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="737">
+          <caret line="74" column="11" selection-start-line="74" selection-start-column="11" selection-end-line="74" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spark/src/main/scala/com/briup/shangji/io/InputStreamTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56">
+          <caret line="11" column="34" lean-forward="true" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spark/src/main/scala/com/briup/core/homework/package.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="4" column="15" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spark/src/main/scala/com/briup/core/homework/BabyRDD5.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="8" column="7" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spark/src/main/scala/com/briup/streaming/BlackListMain.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1796">
+          <caret line="27" column="31" selection-start-line="27" selection-start-column="28" selection-end-line="27" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spark/src/main/scala/com/briup/streamingProject/GoodMain.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="5" column="40" selection-start-line="5" selection-start-column="40" selection-end-line="5" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spark/src/main/scala/com/briup/core/TopicRDDTest.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="318">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spark/src/main/scala/com/briup/streamingProject/project.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="314">
+          <caret line="23" column="52" selection-start-line="23" selection-start-column="52" selection-end-line="23" selection-end-column="52" />
+          <folding>
+            <element signature="e#36#61#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spark/src/main/scala/com/briup/shangji/Father.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+          <folding>
+            <element signature="e#83#84#0" expanded="true" />
+            <element signature="e#120#121#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spark/src/main/scala/com/briup/shangji/Son.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="3" column="17" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="17" />
+          <folding>
+            <element signature="e#95#96#0" expanded="true" />
+            <element signature="e#132#133#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spark/src/main/scala/com/briup/shangji/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="5" column="28" lean-forward="true" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>streaming_web:war</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.46991038" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.46991038" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>scala-sdk-2.12.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.46991038" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.46991038" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spark</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.46991038" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: org.apache.kafka:kafka-clients:2.0.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.46991038" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

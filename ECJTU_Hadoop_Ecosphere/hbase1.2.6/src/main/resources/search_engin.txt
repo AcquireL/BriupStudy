@@ -1,0 +1,95 @@
+
+
+
+表名：lwj:CleanDataMR
+
+表结构：行键：反url
+
+              useinfo                                 ol
+	   keyword  url title  oln  rank                 出url
+	
+表名：lwj:InvertIndex_table
+
+
+表结构：行键：keyword
+			 page
+		     url
+	         rank
+	
+	
+	
+	 Iterator<Result> value = values.iterator ();
+            Result val= value.next ();
+            Put put=new Put (key.get ());
+            for(Cell cell:val.rawCells ()){
+                if(CellUtil.cloneFamily (cell).equals ("f")&&CellUtil.cloneQualifier (cell).equals ("st")&&CellUtil.cloneValue (cell).equals (2)){
+                    if(CellUtil.cloneFamily (cell).equals ("f")&&CellUtil.cloneQualifier (cell).equals ("bas")){
+                        put.addColumn (Bytes.toBytes ("useinfo"),Bytes.toBytes ("url"),CellUtil.cloneValue (cell));
+                    }
+                    if(CellUtil.cloneFamily (cell).equals ("p")&&CellUtil.cloneQualifier (cell).equals ("t")){
+                        put.addColumn (Bytes.toBytes ("useinfo"),Bytes.toBytes ("title"),CellUtil.cloneValue (cell));
+                    }
+                    if(CellUtil.cloneFamily (cell).equals ("il")){
+                        String ilcontext=null;
+                        NavigableMap<byte[], byte[]> qvs = val.getFamilyMap (Bytes.toBytes ("il"));
+                        for(Map.Entry<byte[], byte[]> qv:qvs.entrySet ()){
+                            byte[] value1 = qv.getValue ();
+                            ilcontext=ilcontext+","+new String (value1);
+                        }
+                        put.addColumn (Bytes.toBytes ("useinfo"),Bytes.toBytes ("ilcontext"),Bytes.toBytes (ilcontext));
+                    }
+                    if(CellUtil.cloneFamily (cell).equals ("ol")){
+                        NavigableMap<byte[], byte[]> qvs = val.getFamilyMap(Bytes.toBytes ("ol"));
+                        int num=qvs.size ();
+                        put.addColumn (Bytes.toBytes ("useinfo"), Bytes.toBytes ("olnumber"), Bytes.toBytes (num+""));
+                        put.addColumn (Bytes.toBytes ("ol"), CellUtil.cloneQualifier (cell), Bytes.toBytes (1+""));
+                    }
+                }
+            }
+
+            context.write (NullWritable.get (), put);
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			Result value = values.iterator ().next ();
+            Put put =new Put(key.get ());
+            Cell columnLatestCell = value.getColumnLatestCell (Bytes.toBytes ("f"), Bytes.toBytes ("st"));
+            byte[] st = CellUtil.cloneValue (columnLatestCell);
+            if(Bytes.toInt (st)==2){
+                //baseUrl
+                byte[] base_url=getValueByFamilyAndQualifier (value, Bytes.toBytes ("f"), Bytes.toBytes ("bas"));
+                put.addColumn (Bytes.toBytes ("useinfo"), Bytes.toBytes ("url"), base_url);
+                //title
+                byte[] page_title =
+                        getValueByFamilyAndQualifier
+                                (value,Bytes.toBytes("p"),Bytes.toBytes("t"));
+                put.addColumn (Bytes.toBytes ("useinfo"), Bytes.toBytes ("title"), page_title);
+                //入链接个数
+                int ol_num = countQualifierNum(value,Bytes.toBytes("ol"));
+                put.addColumn (Bytes.toBytes ("useinfo"),Bytes.toBytes ("oln"),Bytes.toBytes (ol_num+""));
+                //入链接内容
+                String ilcontext=" ";
+                NavigableMap<byte[], byte[]> qvscon = value.getFamilyMap (Bytes.toBytes ("il"));
+                for(Map.Entry<byte[], byte[]> qvcon:qvscon.entrySet ()){
+                    byte[] value1 = qvcon.getValue ();
+                    ilcontext+=Bytes.toString (value1)+",";
+                }
+                put.addColumn (Bytes.toBytes ("useinfo"),Bytes.toBytes ("ilcon"),Bytes.toBytes (ilcontext));
+                //出链接
+                NavigableMap<byte[], byte[]> qvs = value.getFamilyMap(Bytes.toBytes ("ol"));
+                for (Map.Entry<byte[], byte[]> qv : qvs.entrySet()) {
+                    byte[] q = qv.getKey();
+                    byte[] v = qv.getValue();
+                    put.addColumn (Bytes.toBytes ("ol"), q, v);
+                }
+            }
+			

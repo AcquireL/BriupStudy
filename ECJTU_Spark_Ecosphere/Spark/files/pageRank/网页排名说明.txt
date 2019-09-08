@@ -1,0 +1,30 @@
+网页排名算法：
+    PageRank,即网页排名，又称网页级别、Google左侧排名或佩奇排名，
+是Google创始人拉里·佩奇和谢尔盖·布林于1997年构建早期的
+搜索系统原型时提出的链接分析算法。
+    目前很多重要的链接分析算法都是在PageRank算法基础上衍生出来的。
+PageRank是Google用于用来标识网页的等级/重要性的一种方法，
+是Google用来衡量一个网站的好坏的唯一标准。
+    在揉合了诸如 Title标识和Keywords标识等所有其它因素之后，
+Google通过PageRank来调整结果，使那些更具“等级/重要性”的
+网页在搜索结果中令网站排名获得提升，从而提高搜索结果 的相关性和质量。
+    Spark GraphX引入了google公司的图处理引擎 pregel，
+    可以方便的实现PageRank的计算。
+数据说明：
+    graphx-wiki-vertices.txt:表示网页的标题
+    graphx-wiki-edges.txt:表示网页之间连接关系
+    (如果要使用Spark GraphX进行计算，那么graphx-wiki-vertices.txt和graphx-wiki-edges.txt,可以分别用于图计算的顶点和边)
+分析任务：
+    计算网页排名
+
+展示的排名前十网页信息：
+(8830299306937918434,(139.58754338923487,University of California, Berkeley))
+(1746517089350976281,(72.60621666255875,Berkeley, California))
+(8262690695090170653,(15.61665861021452,Uc berkeley))
+(7097126743572404313,(12.836754679860206,Berkeley Software Distribution))
+(1735121673437871410,(12.38461373789568,George Berkeley))
+(5820259228361337957,(10.590182488764775,Xander Berkeley))
+(8494280508059481751,(9.885077649359076,Lawrence Berkeley National Laboratory))
+(6990487747244935452,(9.032695728342425,Busby Berkeley))
+(6033170360494767837,(8.09798312456403,Berkeley County, South Carolina))
+(1164897641584173425,(6.564129373340664,Berkeley Hills))

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<mapper namespace="com.briup.streamproject.mapper.ShopUserMapper" >
+    <insert id="saveUser" parameterType="ShopUser" >
+      insert into shopUser(loginName,password,realName,demo)
+       values(#{loginName},#{password},#{realName},#{demo})
+    </insert>
+    <select id="selectUserByloginName" parameterType="ShopUser" resultType="ShopUser">
+      select * from shopUser where loginName = #{loginName}
+    </select>
+</mapper>

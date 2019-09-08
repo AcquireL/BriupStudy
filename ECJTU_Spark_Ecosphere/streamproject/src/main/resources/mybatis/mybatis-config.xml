@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE configuration PUBLIC "-//mybatis.org//DTD Config 3.0//EN" "http://mybatis.org/dtd/mybatis-3-config.dtd">
+<configuration>
+	<!-- 如果需要，可以在这里使用原来的方式配置相关信息 -->
+</configuration>

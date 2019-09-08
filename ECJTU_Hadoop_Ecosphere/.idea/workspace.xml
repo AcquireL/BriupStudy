@@ -1,0 +1,980 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="949593cc-c8d3-45b9-9cf0-469e7ccb2880" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/zookeeper/target/" />
+    <ignored path="$PROJECT_DIR$/flume/target/" />
+    <ignored path="$PROJECT_DIR$/hbase/target/" />
+    <ignored path="$PROJECT_DIR$/Exercise/target/" />
+    <ignored path="$PROJECT_DIR$/hbase1.2.6/target/" />
+    <ignored path="$PROJECT_DIR$/hive/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="ECJTU_Hadoop_Ecosphere" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hbase1.2.6/src/main/java/com/briup/search_engine/CleanDataMR.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1606">
+              <caret line="86" column="21" selection-start-line="86" selection-start-column="21" selection-end-line="86" selection-end-column="21" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/zookeeper/src/main/java/com/briup/basic/CreateTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-476">
+              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/zookeeper/src/main/java/com/briup/basic/DeleteTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="112">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hive/src/main/java/com/briup/udf/GetArea.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="196">
+              <caret line="7" column="18" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/hive/src/main/java/com/briup/jdbc/HiveJDBCTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="28">
+              <caret line="7" column="10" lean-forward="true" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/zookeeper/src/main/java/com/briup/basic/ReadTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-140">
+              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/zookeeper/src/main/java/com/briup/zookeeper/config/ActiveKeyValueStore.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="112">
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/zookeeper/src/main/java/com/briup/zookeeper/config/Executor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="28">
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/zookeeper/src/main/java/com/briup/zookeeper/lock/WriteLock.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="112">
+              <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/zookeeper/src/main/java/com/briup/basic/ExistsTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-690">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Class" />
+        <option value="Kotlin Object" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>main</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/zookeeper/src/main/java/com/briup/basic/ExistsTest.java" />
+        <option value="$PROJECT_DIR$/zookeeper/src/main/java/com/briup/basic/ReadTest.java" />
+        <option value="$PROJECT_DIR$/zookeeper/src/main/java/com/briup/zookeeper/config/ActiveKeyValueStore.java" />
+        <option value="$PROJECT_DIR$/zookeeper/src/main/java/com/briup/zookeeper/config/Executor.java" />
+        <option value="$PROJECT_DIR$/zookeeper/src/main/java/com/briup/zookeeper/config/ServerConfig.java" />
+        <option value="$PROJECT_DIR$/zookeeper/src/main/java/com/briup/basic/Test.java" />
+        <option value="$PROJECT_DIR$/zookeeper/src/main/java/com/briup/zookeeper/lock/WriteLock.java" />
+        <option value="$PROJECT_DIR$/zookeeper/pom.xml" />
+        <option value="$PROJECT_DIR$/flume/pom.xml" />
+        <option value="$PROJECT_DIR$/flume/src/main/java/com/briup/json/Test.java" />
+        <option value="$PROJECT_DIR$/flume/src/main/java/com/briup/json/HttpRequestTest.java" />
+        <option value="$PROJECT_DIR$/flume/src/main/java/com/briup/client/AvroClient.java" />
+        <option value="$PROJECT_DIR$/flume/src/main/java/com/briup/client/FailoverClient.java" />
+        <option value="$PROJECT_DIR$/flume/src/main/java/com/briup/client/BalancerClient.java" />
+        <option value="$PROJECT_DIR$/flume/src/main/java/com/briup/interceptor/interceptor.java" />
+        <option value="$PROJECT_DIR$/hbase/src/main/java/com/briup/base/test/ApiTest.java" />
+        <option value="$PROJECT_DIR$/hbase/src/main/java/com/briup/base/Test.java" />
+        <option value="$PROJECT_DIR$/hbase/src/main/java/com/briup/base/ConnectHbase.java" />
+        <option value="$PROJECT_DIR$/hbase/src/main/java/com/briup/base/CreateTable.java" />
+        <option value="$PROJECT_DIR$/hbase/src/main/java/com/briup/base/exercise/Test.java" />
+        <option value="$PROJECT_DIR$/Exercise/src/main/java/com/ecjtu/demo.fxml" />
+        <option value="$PROJECT_DIR$/Exercise/src/main/java/com/ecjtu/demo/Test1.java" />
+        <option value="$PROJECT_DIR$/Exercise/src/main/resources/grade" />
+        <option value="$PROJECT_DIR$/Exercise/src/main/java/com/ecjtu/demo/GradeAvg.java" />
+        <option value="$PROJECT_DIR$/hbase/src/main/java/com/briup/base/exercise/CreateTable.java" />
+        <option value="$PROJECT_DIR$/hbase/src/main/java/com/briup/base/exercise/ConnectHbase.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/hbase1.2.6/src/main/java/com/briup/coprocessor/Sum.java" />
+        <option value="$PROJECT_DIR$/hbase1.2.6/src/main/java/com/briup/coprocessor/UpdateIndexTest.java" />
+        <option value="$PROJECT_DIR$/hbase1.2.6/src/main/java/com/briup/coprocessor/PutTest.java" />
+        <option value="$PROJECT_DIR$/hbase/src/main/java/com/briup/mr/RowCountMR.java" />
+        <option value="$PROJECT_DIR$/Exercise/src/main/java/com/ecjtu/demo/Client.java" />
+        <option value="$PROJECT_DIR$/Exercise/src/main/java/com/ecjtu/demo/Server.java" />
+        <option value="$PROJECT_DIR$/Exercise/src/main/java/com/ecjtu/demo/Test.java" />
+        <option value="$PROJECT_DIR$/Exercise/src/main/java/com/ecjtu/demo/A.java" />
+        <option value="$PROJECT_DIR$/Exercise/src/main/java/com/ecjtu/demo/Test2.java" />
+        <option value="$PROJECT_DIR$/hbase/src/main/java/com/briup/base/exercise/HbaseApi.java" />
+        <option value="$PROJECT_DIR$/hive/src/main/java/com/briup/udf/GetArea.java" />
+        <option value="$PROJECT_DIR$/hbase/src/main/java/com/briup/base/ApiTest.java" />
+        <option value="$PROJECT_DIR$/hbase1.2.6/pom.xml" />
+        <option value="$PROJECT_DIR$/hive/pom.xml" />
+        <option value="$PROJECT_DIR$/hive/src/main/java/com/briup/jdbc/HiveJDBCTest.java" />
+        <option value="$PROJECT_DIR$/hbase/pom.xml" />
+        <option value="$PROJECT_DIR$/hbase1.2.6/src/main/java/com/briup/search_engine/CleanDataMRTest.java" />
+        <option value="$PROJECT_DIR$/hbase1.2.6/src/main/java/com/briup/search_engine/PageRank.java" />
+        <option value="$PROJECT_DIR$/hbase1.2.6/src/main/java/com/briup/search_engine/BuildInvertIndexTest.java" />
+        <option value="$PROJECT_DIR$/hbase1.2.6/src/main/java/com/briup/search_engine/CleanDataMR.java" />
+        <option value="$PROJECT_DIR$/hbase1.2.6/src/main/java/com/briup/search_engine/BuildInvertIndex.java" />
+        <option value="$PROJECT_DIR$/hbase1.2.6/src/main/java/com/briup/Hbase_Api/Api.java" />
+        <option value="$PROJECT_DIR$/hbase1.2.6/src/main/resources/search_engin.txt" />
+        <option value="$PROJECT_DIR$/Exercise/src/main/java/com/ecjtu/demo2/ScalaTest.kt" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="E:/apache-maven-3.6.0" />
+        <option name="userSettingsFile" value="E:\apache-maven-3.6.0\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="hbase1.2.6" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="hbase1.2.6" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="20" />
+    <option name="width" value="1390" />
+    <option name="height" value="910" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ECJTU_Hadoop_Ecosphere" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ECJTU_Hadoop_Ecosphere" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1565339571621" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ECJTU_Scala" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.23771581" />
+    <property name="project.structure.side.proportion" value="0.28785983" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.scala.settings.ScalaProjectSettingsConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\idea-hadoop-workpace\ECJTU_Hadoop_Ecosphere\hbase1.2.6\src\main\resources" />
+      <recent name="D:\idea-hadoop-workpace\ECJTU_Hadoop_Ecosphere\hbase1.2.6\src\main\java\com\briup\search_engine" />
+      <recent name="D:\idea-hadoop-workpace\ECJTU_Hadoop_Ecosphere\Exercise\src\main\resources" />
+      <recent name="D:\idea-hadoop-workpace\ECJTU_Hadoop_Ecosphere\hbase" />
+      <recent name="D:\idea-hadoop-workpace\ECJTU_Hadoop_Ecosphere\hbase1.2.6\src\main\java\com\briup\coprocessor" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Api">
+    <configuration name="Api" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.briup.Hbase_Api.Api" />
+      <module name="hbase126" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.briup.Hbase_Api.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HbaseApi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.briup.base.exercise.HbaseApi" />
+      <module name="hbase" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.briup.base.exercise.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HiveJDBCTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.briup.jdbc.HiveJDBCTest" />
+      <module name="hive" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.briup.jdbc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PageRank" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.briup.search_engine.PageRank" />
+      <module name="hbase126" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.briup.search_engine.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ecjtu.demo.Test2" />
+      <module name="Exercise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ecjtu.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Api" />
+        <item itemvalue="Application.PageRank" />
+        <item itemvalue="Application.HiveJDBCTest" />
+        <item itemvalue="Application.HbaseApi" />
+        <item itemvalue="Application.Test2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Administrator\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="949593cc-c8d3-45b9-9cf0-469e7ccb2880" name="Default Changelist" comment="" />
+      <created>1561427799142</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1561427799142</updated>
+      <workItem from="1561427803734" duration="16075000" />
+      <workItem from="1561511145047" duration="13398000" />
+      <workItem from="1561597571428" duration="2748000" />
+      <workItem from="1561639886795" duration="2393000" />
+      <workItem from="1561684364433" duration="7900000" />
+      <workItem from="1561996209520" duration="346000" />
+      <workItem from="1562050937057" duration="1278000" />
+      <workItem from="1562116057207" duration="6691000" />
+      <workItem from="1562135599785" duration="4230000" />
+      <workItem from="1562140330781" duration="10485000" />
+      <workItem from="1562158001958" duration="4563000" />
+      <workItem from="1562200733926" duration="14370000" />
+      <workItem from="1562227598165" duration="12670000" />
+      <workItem from="1562244771266" duration="1221000" />
+      <workItem from="1562288795531" duration="4755000" />
+      <workItem from="1562316023775" duration="1794000" />
+      <workItem from="1562321808837" duration="7978000" />
+      <workItem from="1562389846991" duration="7738000" />
+      <workItem from="1562465501959" duration="2555000" />
+      <workItem from="1562546844587" duration="6900000" />
+      <workItem from="1562634285719" duration="756000" />
+      <workItem from="1562729468697" duration="4502000" />
+      <workItem from="1562810418039" duration="18866000" />
+      <workItem from="1562892895683" duration="7253000" />
+      <workItem from="1563018393988" duration="753000" />
+      <workItem from="1563076584485" duration="4717000" />
+      <workItem from="1563151345020" duration="26992000" />
+      <workItem from="1563192867541" duration="1168000" />
+      <workItem from="1563202129630" duration="2162000" />
+      <workItem from="1563238426432" duration="26453000" />
+      <workItem from="1563325398204" duration="10383000" />
+      <workItem from="1563347740942" duration="1327000" />
+      <workItem from="1563354511673" duration="10541000" />
+      <workItem from="1563410021371" duration="27154000" />
+      <workItem from="1563497689382" duration="3044000" />
+      <workItem from="1563517357074" duration="977000" />
+      <workItem from="1563518367538" duration="619000" />
+      <workItem from="1565337902165" duration="125000" />
+      <workItem from="1565338156849" duration="1477000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="PutTest_putTest1 - 2019.07.05 at 21h 43m 34s.xml">
+      <configuration name="PutTest.putTest1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PutTest_putTest1 - 2019.07.05 at 21h 50m 10s.xml">
+      <configuration name="PutTest.putTest1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PutTest_putTest1 - 2019.07.05 at 21h 59m 24s.xml">
+      <configuration name="PutTest.putTest1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PutTest - 2019.07.05 at 21h 59m 33s.xml">
+      <configuration name="PutTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PutTest - 2019.07.05 at 21h 59m 39s.xml">
+      <configuration name="PutTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PutTest_putTest1 - 2019.07.05 at 22h 00m 33s.xml">
+      <configuration name="PutTest.putTest1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PutTest - 2019.07.05 at 22h 08m 55s.xml">
+      <configuration name="PutTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PutTest_putTest1 - 2019.07.05 at 22h 17m 44s.xml">
+      <configuration name="PutTest.putTest1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PutTest_putTest1 - 2019.07.05 at 22h 28m 22s.xml">
+      <configuration name="PutTest.putTest1" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="279357000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49763033" visible="true" weight="0.29490617" />
+      <window_info id="Structure" order="1" sideWeight="0.50236964" side_tool="true" weight="0.2386059" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.50236964" side_tool="true" weight="0.2386059" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49798927" weight="0.10608204" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4059406" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.17397454" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49932975" weight="0.291372" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50067025" side_tool="true" weight="0.39886847" />
+      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.49932975" weight="0.45685998" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" weight="0.32956153" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" weight="0.3297587" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" visible="true" weight="0.112600535" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" weight="0.3297587" />
+      <window_info anchor="right" x="0" y="0" width="337" height="638" id="Documentation" order="10" side_tool="true" weight="0.3297587" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49763033" visible="true" weight="0.09316354" />
+      <window_info id="Structure" order="1" sideWeight="0.50236964" side_tool="true" weight="0.2386059" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.50236964" side_tool="true" weight="0.2386059" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49798927" visible="true" weight="0.22206506" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4059406" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.17397454" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49932975" weight="0.291372" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50067025" side_tool="true" weight="0.39886847" />
+      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.49932975" weight="0.45685998" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" weight="0.32956153" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" weight="0.3297587" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" visible="true" weight="0.09919571" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" weight="0.3297587" />
+      <window_info anchor="right" x="0" y="0" width="337" height="638" id="Documentation" order="10" side_tool="true" weight="0.3297587" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/hbase1.2.6/src/main/java/com/briup/coprocessor/SumEndPoint.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hbase1.2.6/src/main/java/com/briup/coprocessor/Sum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="392">
+          <caret line="15" column="37" selection-start-line="15" selection-start-column="37" selection-end-line="15" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hbase1.2.6/src/main/java/com/briup/coprocessor/PutTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="560">
+          <caret line="31" column="5" lean-forward="true" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hbase1.2.6/src/main/java/com/briup/coprocessor/UpdateIndexTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="22" column="43" selection-start-line="22" selection-start-column="43" selection-end-line="22" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercise/src/main/resources/grade">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="6" lean-forward="true" selection-start-column="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="430">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercise/src/main/resources/壁纸.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercise/src/main/resources/1562586209342.jpg" />
+    <entry file="file://$PROJECT_DIR$/Exercise/src/main/resources/1562586249516.jpg" />
+    <entry file="file://$PROJECT_DIR$/Exercise/src/main/resources/1562586150000.jpg" />
+    <entry file="file://$PROJECT_DIR$/Exercise/src/main/resources/1562586334309.jpg" />
+    <entry file="file://$PROJECT_DIR$/Exercise/src/main/java/com/ecjtu/demo/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercise/src/main/java/com/ecjtu/demo/A.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="392">
+          <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercise/src/main/java/com/ecjtu/demo/Test2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hbase/src/main/java/com/briup/base/exercise/HbaseApi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="32" column="49" lean-forward="true" selection-start-line="32" selection-start-column="49" selection-end-line="32" selection-end-column="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hbase/src/main/java/com/briup/base/exercise/CreateTable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="43" column="8" selection-start-line="43" selection-start-column="8" selection-end-line="43" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hbase/src/main/java/com/briup/mr/RowCountMR.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="36" column="130" selection-start-line="36" selection-start-column="47" selection-end-line="36" selection-end-column="130" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/sql/Statement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="338" column="58" selection-start-line="338" selection-start-column="58" selection-end-line="338" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hive/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="25" column="21" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hbase/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1652">
+          <caret line="59" column="36" lean-forward="true" selection-start-line="59" selection-start-column="36" selection-end-line="59" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hbase1.2.6/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="392">
+          <caret line="20" column="33" selection-start-line="20" selection-start-column="33" selection-end-line="20" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hbase/hbase-common/1.2.6/hbase-common-1.2.6.jar!/org/apache/hadoop/hbase/Cell.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="43" column="15" selection-start-line="43" selection-start-column="15" selection-end-line="43" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/util/Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="3502" column="6" lean-forward="true" selection-start-line="3502" selection-start-column="6" selection-end-line="3502" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hbase/hbase-client/1.2.6/hbase-client-1.2.6.jar!/org/apache/hadoop/hbase/client/Result.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="200" column="15" lean-forward="true" selection-start-line="200" selection-start-column="15" selection-end-line="200" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hbase/src/main/java/com/briup/base/ApiTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="328">
+          <caret line="158" column="10" selection-start-line="158" selection-start-column="10" selection-end-line="158" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hbase/hbase-common/1.2.6/hbase-common-1.2.6.jar!/org/apache/hadoop/hbase/util/Bytes.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="756">
+          <caret line="292" column="5" lean-forward="true" selection-start-line="292" selection-start-column="5" selection-end-line="292" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hbase1.2.6/src/main/java/com/briup/search_engine/CleanDataMRTest.java" />
+    <entry file="file://$PROJECT_DIR$/hbase1.2.6/src/main/java/com/briup/search_engine/BuildInvertIndexTest.java" />
+    <entry file="file://$PROJECT_DIR$/hbase1.2.6/src/main/java/com/briup/Hbase_Api/Api.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1652">
+          <caret line="114" lean-forward="true" selection-start-line="114" selection-end-line="114" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hbase1.2.6/src/main/resources/search_engin.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercise/src/main/java/com/ecjtu/demo/Count.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="13" column="23" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercise/src/main/java/com/ecjtu/demo/GradeAvg.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="868">
+          <caret line="31" column="7" selection-start-line="31" selection-start-column="7" selection-end-line="31" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercise/src/main/java/com/ecjtu/demo/Server.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="19" column="20" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flume/src/main/java/com/briup/client/AvroClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hbase1.2.6/src/main/java/com/briup/search_engine/BuildInvertIndex.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="370">
+          <caret line="62" column="56" selection-start-line="62" selection-start-column="56" selection-end-line="62" selection-end-column="56" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hbase1.2.6/src/main/java/com/briup/search_engine/PageRank.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="622">
+          <caret line="57" column="24" lean-forward="true" selection-start-line="57" selection-start-column="24" selection-end-line="57" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hbase/src/main/java/com/briup/base/exercise/ConnectHbase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28">
+          <caret line="25" column="35" selection-start-line="25" selection-start-column="35" selection-end-line="25" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zookeeper/src/main/java/com/briup/basic/ZKConnection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zookeeper/src/main/java/com/briup/basic/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercise/src/main/java/com/ecjtu/demo/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercise/src/main/java/com/ecjtu/demo2/ScalaTest.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hbase1.2.6/src/main/java/com/briup/search_engine/CleanDataMR.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1606">
+          <caret line="86" column="21" selection-start-line="86" selection-start-column="21" selection-end-line="86" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zookeeper/src/main/java/com/briup/basic/CreateTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-476">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zookeeper/src/main/java/com/briup/basic/ExistsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-690">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zookeeper/src/main/java/com/briup/basic/ReadTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-140">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zookeeper/src/main/java/com/briup/zookeeper/config/ActiveKeyValueStore.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zookeeper/src/main/java/com/briup/zookeeper/config/Executor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zookeeper/src/main/java/com/briup/zookeeper/lock/WriteLock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zookeeper/src/main/java/com/briup/basic/DeleteTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hive/src/main/java/com/briup/udf/GetArea.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="7" column="18" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hive/src/main/java/com/briup/jdbc/HiveJDBCTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28">
+          <caret line="7" column="10" lean-forward="true" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.28785983" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.28785983" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.28785983" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.28785983" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Exercise</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.28785983" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: com.google.inject.extensions:guice-assistedinject:3.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.28785983" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
