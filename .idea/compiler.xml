@@ -6,13 +6,35 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="env-gather" />
+        <module name="hive" />
+        <module name="Exercise" />
+        <module name="zookeeper" />
         <module name="env-gather-interface" />
+        <module name="BriupStudy" />
+        <module name="Scala" />
+        <module name="flume" />
+        <module name="Spark" />
+        <module name="ECJTU_GRMS" />
+        <module name="hbase1.2.6" />
+        <module name="hbase" />
+        <module name="env-gather" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="BriupStudy" target="1.5" />
+      <module name="ECJTU_GRMS" target="1.8" />
+      <module name="ECJTU_Hadoop_Ecosphere" target="1.8" />
+      <module name="ECJTU_Spark_Ecosphere" target="1.5" />
       <module name="env-gather" target="1.8" />
       <module name="env-gather-interface" target="1.8" />
+      <module name="Exercise" target="1.8" />
+      <module name="flume" target="1.8" />
+      <module name="hbase" target="8" />
+      <module name="hbase1.2.6" target="8" />
+      <module name="hive" target="1.8" />
+      <module name="Scala" target="1.5" />
+      <module name="Spark" target="1.5" />
+      <module name="zookeeper" target="8" />
     </bytecodeTargetLevel>
   </component>
 </project>

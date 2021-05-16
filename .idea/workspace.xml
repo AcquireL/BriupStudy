@@ -1,14 +1,446 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:maven" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:maven" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:ECJTU_GRMS" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:maven" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:ECJTU_Hadoop_Ecosphere" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:maven" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:ECJTU_Spark_Ecosphere" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:maven" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:ECJTU_Spark_Ecosphere" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:Spark" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="849936e3-0635-4dcf-9165-0cc528f4b77b" name="Default Changelist" comment="" />
-    <ignored path="$PROJECT_DIR$/env-gather/target/" />
-    <ignored path="$PROJECT_DIR$/env-gather-interface/target/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="849936e3-0635-4dcf-9165-0cc528f4b77b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env-gather/lib/ojdbc7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_briup_env_gather_interface_0_0_1_SNAPSHOT.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_oracle_ojdbc14_10_2_0_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__dom4j_dom4j_1_6_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__dom4j_dom4j_1_6_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_16.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_16.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__xml_apis_xml_apis_1_0_b2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xml_apis_xml_apis_1_0_b2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_GRMS/ECJTU_GRMS.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ECJTU_GRMS/ECJTU_GRMS.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_GRMS/target/classes/com/briup/grms/step1/PurchasedGoodsList$PGLMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_GRMS/target/classes/com/briup/grms/step1/PurchasedGoodsList$PGLReducer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_GRMS/target/classes/com/briup/grms/step1/PurchasedGoodsList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_GRMS/target/classes/com/briup/grms/step2/GoodsCooccurrenceList$GCLMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_GRMS/target/classes/com/briup/grms/step2/GoodsCooccurrenceList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_GRMS/target/classes/com/briup/grms/step3/GoodsCooccurrenceMatrix$GCMReducer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_GRMS/target/classes/com/briup/grms/step3/GoodsCooccurrenceMatrix.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_GRMS/target/classes/com/briup/grms/step4/PurchasedGoodsVector$PGVMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_GRMS/target/classes/com/briup/grms/step4/PurchasedGoodsVector$PGVReducer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_GRMS/target/classes/com/briup/grms/step4/PurchasedGoodsVector.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_GRMS/target/classes/com/briup/grms/step5/GetRecmandResult$GRRReducer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_GRMS/target/classes/com/briup/grms/step5/GetRecmandResult$ReadGCMatrixMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_GRMS/target/classes/com/briup/grms/step5/GetRecmandResult$ReadPGVetorMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_GRMS/target/classes/com/briup/grms/step5/GetRecmandResult.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_GRMS/target/classes/com/briup/grms/step5/IdFlag.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_GRMS/target/classes/com/briup/grms/step5/IdFlagGroupingComparator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_GRMS/target/classes/com/briup/grms/step5/IdFlagPartitioner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_GRMS/target/classes/com/briup/grms/step6/RecmandResultSum$RRSReducer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_GRMS/target/classes/com/briup/grms/step6/RecmandResultSum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_GRMS/target/classes/com/briup/grms/step7/DuplicateRCResult$DRRReducer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_GRMS/target/classes/com/briup/grms/step7/DuplicateRCResult$ReadODMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_GRMS/target/classes/com/briup/grms/step7/DuplicateRCResult.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_GRMS/target/classes/com/briup/grms/step8/DBStore$DBMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_GRMS/target/classes/com/briup/grms/step8/DBStore.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_GRMS/target/classes/com/briup/grms/step8/UserGoodValue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Hadoop_Ecosphere/ECJTU_Hadoop_Ecosphere.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ECJTU_Hadoop_Ecosphere/ECJTU_Hadoop_Ecosphere.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Hadoop_Ecosphere/hbase/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ECJTU_Hadoop_Ecosphere/hbase/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Hadoop_Ecosphere/hbase1.2.6/src/main/java/com/briup/search_engine/BuildInvertIndex.java" beforeDir="false" afterPath="$PROJECT_DIR$/ECJTU_Hadoop_Ecosphere/hbase1.2.6/src/main/java/com/briup/search_engine/BuildInvertIndex.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Hadoop_Ecosphere/hbase1.2.6/target/classes/META-INF/hbase126.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Hadoop_Ecosphere/hbase1.2.6/target/classes/com/briup/Hbase_Api/Api.class" beforeDir="false" afterPath="$PROJECT_DIR$/ECJTU_Hadoop_Ecosphere/hbase1.2.6/target/classes/com/briup/Hbase_Api/Api.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Hadoop_Ecosphere/hbase1.2.6/target/classes/com/briup/search_engine/BuildInvertIndex$InvertMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/ECJTU_Hadoop_Ecosphere/hbase1.2.6/target/classes/com/briup/search_engine/BuildInvertIndex$InvertMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Hadoop_Ecosphere/hbase1.2.6/target/classes/com/briup/search_engine/BuildInvertIndex$InvertReducer.class" beforeDir="false" afterPath="$PROJECT_DIR$/ECJTU_Hadoop_Ecosphere/hbase1.2.6/target/classes/com/briup/search_engine/BuildInvertIndex$InvertReducer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Hadoop_Ecosphere/hbase1.2.6/target/classes/com/briup/search_engine/BuildInvertIndex.class" beforeDir="false" afterPath="$PROJECT_DIR$/ECJTU_Hadoop_Ecosphere/hbase1.2.6/target/classes/com/briup/search_engine/BuildInvertIndex.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Hadoop_Ecosphere/hive/hive.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ECJTU_Hadoop_Ecosphere/hive/hive.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Hadoop_Ecosphere/hive/target/classes/com/briup/jdbc/HiveJDBCTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/ECJTU_Hadoop_Ecosphere/hive/target/classes/com/briup/jdbc/HiveJDBCTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Hadoop_Ecosphere/zookeeper/zookeeper.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ECJTU_Hadoop_Ecosphere/zookeeper/zookeeper.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Scala/ECJTU_Scala.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ECJTU_Scala/ECJTU_Scala.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Scala/out/production/ECJTU_Scala/META-INF/ECJTU_Scala.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Scala/out/production/ECJTU_Scala/com/briup/demo/Test$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Scala/out/production/ECJTU_Scala/com/briup/demo/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Scala/out/production/ECJTU_Scala/com/briup/demo/chap2/Test1$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Scala/out/production/ECJTU_Scala/com/briup/demo/chap2/Test1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Scala/out/production/ECJTU_Scala/com/briup/demo/chap2/Test4$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Scala/out/production/ECJTU_Scala/com/briup/demo/chap2/Test4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Scala/out/production/ECJTU_Scala/com/briup/demo/chap2/Test5$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Scala/out/production/ECJTU_Scala/com/briup/demo/chap2/Test5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Scala/out/production/ECJTU_Scala/com/briup/demo/chap2/Test6$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Scala/out/production/ECJTU_Scala/com/briup/demo/chap2/Test6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Scala/out/production/ECJTU_Scala/com/briup/demo/chap2/Test7$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Scala/out/production/ECJTU_Scala/com/briup/demo/chap2/Test7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Scala/out/production/ECJTU_Scala/com/briup/demo/chap2/Test9$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Scala/out/production/ECJTU_Scala/com/briup/demo/chap2/Test9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Scala/out/production/ECJTU_Scala/ecjtu/java/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Scala/out/production/ECJTU_Scala/ecjtu/java/DBStore.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Scala/out/production/ECJTU_Scala/ecjtu/java/Server.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/ECJTU_Spark_Ecosphere.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/ECJTU_Spark_Ecosphere.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Scala/Scala.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Scala/Scala.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Scala/target/classes/ECJTU_Spark_Ecosphere/App$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Scala/target/classes/ECJTU_Spark_Ecosphere/App$delayedInit$body.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Scala/target/classes/ECJTU_Spark_Ecosphere/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/META-INF/Spark.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/CreateRDD$$anonfun$main$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/CreateRDD$$anonfun$main$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/CreateRDD$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/CreateRDD.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/MovieRDDTest$$anonfun$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/MovieRDDTest$$anonfun$10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/MovieRDDTest$$anonfun$11.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/MovieRDDTest$$anonfun$12.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/MovieRDDTest$$anonfun$13.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/MovieRDDTest$$anonfun$14.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/MovieRDDTest$$anonfun$15.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/MovieRDDTest$$anonfun$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/MovieRDDTest$$anonfun$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/MovieRDDTest$$anonfun$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/MovieRDDTest$$anonfun$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/MovieRDDTest$$anonfun$6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/MovieRDDTest$$anonfun$7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/MovieRDDTest$$anonfun$8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/MovieRDDTest$$anonfun$9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/MovieRDDTest$$anonfun$avgScore$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/MovieRDDTest$$anonfun$avgScore$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/MovieRDDTest$$anonfun$first$1$$anonfun$apply$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/MovieRDDTest$$anonfun$first$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/MovieRDDTest$$anonfun$pageRank$1$$anonfun$apply$mcVI$sp$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/MovieRDDTest$$anonfun$pageRank$1$$anonfun$apply$mcVI$sp$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/MovieRDDTest$$anonfun$pageRank$1$$anonfun$apply$mcVI$sp$3$$anonfun$apply$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/MovieRDDTest$$anonfun$pageRank$1$$anonfun$apply$mcVI$sp$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/MovieRDDTest$$anonfun$pageRank$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/MovieRDDTest$$anonfun$pageRank$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/MovieRDDTest$$anonfun$pageRank$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/MovieRDDTest$$anonfun$read$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/MovieRDDTest$$anonfun$second$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/MovieRDDTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/StringAccumulator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/TopicRDDTest$$anonfun$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/TopicRDDTest$$anonfun$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/TopicRDDTest$$anonfun$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/TopicRDDTest$$anonfun$topic$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/TopicRDDTest$$anonfun$topic$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/TopicRDDTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/WordCount$$anonfun$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/WordCount$$anonfun$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/WordCount$$anonfun$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/WordCount$$anonfun$main$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/WordCount$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/WordCount.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/homework/BabyRDD$$anonfun$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/homework/BabyRDD$$anonfun$10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/homework/BabyRDD$$anonfun$11.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/homework/BabyRDD$$anonfun$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/homework/BabyRDD$$anonfun$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/homework/BabyRDD$$anonfun$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/homework/BabyRDD$$anonfun$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/homework/BabyRDD$$anonfun$6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/homework/BabyRDD$$anonfun$7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/homework/BabyRDD$$anonfun$8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/homework/BabyRDD$$anonfun$9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/homework/BabyRDD$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/homework/BabyRDD$delayedInit$body.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/homework/BabyRDD.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/homework/BabyRDD1$$anonfun$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/homework/BabyRDD1$$anonfun$10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/homework/BabyRDD1$$anonfun$11.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/homework/BabyRDD1$$anonfun$2$$anonfun$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/homework/BabyRDD1$$anonfun$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/homework/BabyRDD1$$anonfun$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/homework/BabyRDD1$$anonfun$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/homework/BabyRDD1$$anonfun$6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/homework/BabyRDD1$$anonfun$7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/homework/BabyRDD1$$anonfun$8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/homework/BabyRDD1$$anonfun$9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/homework/BabyRDD1$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/homework/BabyRDD1$delayedInit$body.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/homework/BabyRDD1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/homework/BabyRDD3$$anonfun$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/homework/BabyRDD3$$anonfun$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/homework/BabyRDD3$$anonfun$3$$anonfun$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/homework/BabyRDD3$$anonfun$3$$anonfun$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/homework/BabyRDD3$$anonfun$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/homework/BabyRDD3$$anonfun$6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/homework/BabyRDD3$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/homework/BabyRDD3$delayedInit$body.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/homework/BabyRDD3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/homework/BabyRDD4$$anonfun$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/homework/BabyRDD4$$anonfun$2$$anonfun$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/homework/BabyRDD4$$anonfun$2$$anonfun$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/homework/BabyRDD4$$anonfun$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/homework/BabyRDD4$$anonfun$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/homework/BabyRDD4$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/homework/BabyRDD4$delayedInit$body.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/homework/BabyRDD4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/homework/BabyRDD5$$anonfun$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/homework/BabyRDD5$$anonfun$2$$anonfun$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/homework/BabyRDD5$$anonfun$2$$anonfun$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/homework/BabyRDD5$$anonfun$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/homework/BabyRDD5$$anonfun$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/homework/BabyRDD5$$anonfun$6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/homework/BabyRDD5$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/homework/BabyRDD5$delayedInit$body.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/homework/BabyRDD5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/homework/Fun$$anonfun$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/homework/Fun$$anonfun$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/homework/Fun$$anonfun$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/homework/Fun$$anonfun$map$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/homework/Fun$$anonfun$map$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/homework/Fun$$anonfun$map$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/homework/Fun$$anonfun$map$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/homework/Fun.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/homework/package$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/homework/package.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/homework/test$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/homework/test$delayedInit$body.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/homework/test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/package$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/package.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/mapGroupOperator/Event$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/mapGroupOperator/Event.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/mapGroupOperator/FormatData$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/mapGroupOperator/FormatData.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/mapGroupOperator/InitData$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/mapGroupOperator/InitData.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/mapGroupOperator/MapGroupWithState$$anonfun$1$$anonfun$apply$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/mapGroupOperator/MapGroupWithState$$anonfun$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/mapGroupOperator/MapGroupWithState$$anonfun$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/mapGroupOperator/MapGroupWithState$$anonfun$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/mapGroupOperator/MapGroupWithState$$anonfun$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/mapGroupOperator/MapGroupWithState$$anonfun$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/mapGroupOperator/MapGroupWithState$$typecreator19$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/mapGroupOperator/MapGroupWithState$$typecreator20$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/mapGroupOperator/MapGroupWithState$$typecreator28$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/mapGroupOperator/MapGroupWithState$$typecreator32$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/mapGroupOperator/MapGroupWithState$$typecreator4$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/mapGroupOperator/MapGroupWithState$$typecreator5$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/mapGroupOperator/MapGroupWithState$$typecreator9$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/mapGroupOperator/MapGroupWithState.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/mapGroupOperator/ResultData$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/mapGroupOperator/ResultData.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/mapGroupOperator/ResultState$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/mapGroupOperator/ResultState.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/mapGroupOperator/SessionInfo$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/mapGroupOperator/SessionInfo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/mapGroupOperator/SessionUpdate$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/mapGroupOperator/SessionUpdate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/mapGroupOperator/StructuredSessionization$$anonfun$1$$anonfun$apply$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/mapGroupOperator/StructuredSessionization$$anonfun$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/mapGroupOperator/StructuredSessionization$$anonfun$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/mapGroupOperator/StructuredSessionization$$anonfun$3$$anonfun$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/mapGroupOperator/StructuredSessionization$$anonfun$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/mapGroupOperator/StructuredSessionization$$typecreator15$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/mapGroupOperator/StructuredSessionization$$typecreator16$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/mapGroupOperator/StructuredSessionization$$typecreator4$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/mapGroupOperator/StructuredSessionization$$typecreator5$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/mapGroupOperator/StructuredSessionization$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/mapGroupOperator/StructuredSessionization.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/shangji/Father.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/shangji/Son.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/shangji/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/shangji/Test1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/shangji/Test2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/shangji/Test3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/shangji/Test4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/shangji/Test5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/shangji/io/FileReadTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/shangji/io/InputStreamTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/shangji/test6/Cuboid.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/shangji/test6/Rectangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/shangji/test6/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/sql/BabyDataAnalysis$$anonfun$1$$anonfun$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/sql/BabyDataAnalysis$$anonfun$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/sql/BabyDataAnalysis$$typecreator5$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/sql/BabyDataAnalysis.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/sql/BabyYobInfo$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/sql/BabyYobInfo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/sql/DFAndDSTest$$typecreator1$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/sql/DFAndDSTest$$typecreator13$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/sql/DFAndDSTest$$typecreator18$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/sql/DFAndDSTest$$typecreator6$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/sql/DFAndDSTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/sql/Date$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/sql/Date.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/sql/IOTest$$typecreator5$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/sql/IOTest$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/sql/IOTest$delayedInit$body.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/sql/IOTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/sql/Order$$anonfun$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/sql/Order$$anonfun$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/sql/Order$$anonfun$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/sql/Order$$typecreator13$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/sql/Order$$typecreator21$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/sql/Order$$typecreator5$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/sql/Order.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/sql/Person$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/sql/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/sql/Score$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/sql/Score.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/sql/Stock$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/sql/Stock.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/sql/StockDetaili$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/sql/StockDetaili.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/sql/Stu$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/sql/Stu.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/sql/Student$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/sql/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/sql/WindowFunTest$$typecreator5$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/sql/WindowFunTest$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/sql/WindowFunTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/sql/package$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/sql/package.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/streaming/BlackListMain$$anon$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/streaming/BlackListMain$$anonfun$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/streaming/BlackListMain$$anonfun$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/streaming/BlackListMain$$typecreator12$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/streaming/BlackListMain$$typecreator13$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/streaming/BlackListMain$$typecreator17$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/streaming/BlackListMain$$typecreator4$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/streaming/BlackListMain$$typecreator5$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/streaming/BlackListMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/streaming/JsonFileSourceTest$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/streaming/JsonFileSourceTest$delayedInit$body.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/streaming/JsonFileSourceTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/streaming/KafkaSourceTest$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/streaming/KafkaSourceTest$delayedInit$body.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/streaming/KafkaSourceTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/streaming/MassageServer$$anon$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/streaming/MassageServer$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/streaming/MassageServer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/streaming/OldApiTest$$anonfun$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/streaming/OldApiTest$$anonfun$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/streaming/OldApiTest$$anonfun$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/streaming/OldApiTest$$anonfun$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/streaming/OldApiTest$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/streaming/OldApiTest$delayedInit$body.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/streaming/OldApiTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/streaming/SocketSourceTest$$anonfun$1$$anonfun$apply$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/streaming/SocketSourceTest$$anonfun$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/streaming/SocketSourceTest$$typecreator4$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/streaming/SocketSourceTest$$typecreator5$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/streaming/SocketSourceTest$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/streaming/SocketSourceTest$delayedInit$body.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/streaming/SocketSourceTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/streaming/TextFileSourceTest$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/streaming/TextFileSourceTest$delayedInit$body.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/streaming/TextFileSourceTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/streaming/WindowsOper$$anonfun$1$$anonfun$apply$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/streaming/WindowsOper$$anonfun$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/streaming/WindowsOper$$typecreator4$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/streaming/WindowsOper$$typecreator8$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/streaming/WindowsOper$$typecreator9$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/streaming/WindowsOper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/streaming/package$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/streaming/package.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/streamingProject/GoodMain$$anonfun$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/streamingProject/GoodMain$$anonfun$2$$anonfun$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/streamingProject/GoodMain$$anonfun$2$$anonfun$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/streamingProject/GoodMain$$anonfun$2$$anonfun$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/streamingProject/GoodMain$$anonfun$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/streamingProject/GoodMain$$anonfun$6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/streamingProject/GoodMain$$typecreator16$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/streamingProject/GoodMain$$typecreator20$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/streamingProject/GoodMain$$typecreator7$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/streamingProject/GoodMain$$typecreator8$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/streamingProject/GoodMain$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/streamingProject/GoodMain$delayedInit$body.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/streamingProject/GoodMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/streamingProject/ResultGoodData$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/streamingProject/ResultGoodData.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/streamingProject/ResultGoodState$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/streamingProject/ResultGoodState.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/streamingProject/project$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/streamingProject/project$delayedInit$body.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/streamingProject/project.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/target/classes/META-INF/ECJTU_Spark_Ecosphere.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/target/test-classes/META-INF/ECJTU_Spark_Ecosphere.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/env-gather-interface/env-gather-interface.iml" beforeDir="false" afterPath="$PROJECT_DIR$/env-gather-interface/env-gather-interface.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env-gather-interface/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/env-gather-interface/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env-gather/env-gather.iml" beforeDir="false" afterPath="$PROJECT_DIR$/env-gather/env-gather.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env-gather/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/env-gather/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env-gather/target/classes/com/briup/env/client/ClientImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/env-gather/target/classes/com/briup/env/client/GatherImpTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/env-gather/target/classes/com/briup/env/client/GatherImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/env-gather/target/classes/com/briup/env/mian/ClientMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/env-gather/target/classes/com/briup/env/mian/ServerMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/env-gather/target/classes/com/briup/env/server/DBStoreImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/env-gather/target/classes/com/briup/env/server/ServerImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/env-gather/target/classes/com/briup/env/server/ServerThreadImpl$Handler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/env-gather/target/classes/com/briup/env/server/ServerThreadImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/env-gather/target/classes/com/briup/env/test/HelloTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/env-gather/target/classes/data-file" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -24,9 +456,6 @@
     <expand />
     <select />
   </component>
-  <component name="FileEditorManager">
-    <leaf />
-  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -34,96 +463,57 @@
       </list>
     </option>
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/env-gather/pom.xml" />
-        <option value="$PROJECT_DIR$/env-gather-interface/pom.xml" />
-        <option value="$PROJECT_DIR$/env-gather-interface/src/main/java/env/mian/ClientMain.java" />
-        <option value="$PROJECT_DIR$/env-gather/src/main/java/com/briup/env/client/GatherImpl.java" />
-        <option value="$PROJECT_DIR$/env-gather/src/main/resources/data-file" />
-        <option value="$PROJECT_DIR$/env-gather/src/main/java/com/briup/env/client/GatherImpTest.java" />
-        <option value="$PROJECT_DIR$/env-gather/src/main/java/com/briup/env/test/HelloTest.java" />
-        <option value="$PROJECT_DIR$/env-gather/src/main/java/com/briup/env/mian/ServerMain.java" />
-        <option value="$PROJECT_DIR$/env-gather/src/main/java/com/briup/env/server/ServerThreadImpl.java" />
-        <option value="$PROJECT_DIR$/env-gather/src/main/java/com/briup/env/server/DBStoreImpl.java" />
-        <option value="$PROJECT_DIR$/env-gather/src/main/java/com/briup/env/util/BackupImpl.java" />
-      </list>
-    </option>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="mavenHome" value="E:/apache-maven-3.6.0" />
-        <option name="pluginUpdatePolicy" value="DO_NOT_UPDATE" />
-        <option name="userSettingsFile" value="E:\apache-maven-3.6.0\conf\settings.xml" />
+        <option name="localRepository" value="D:\apache-maven-3.6.3\repository" />
+        <option name="mavenHome" value="D:\apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.6.3\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="MavenProjectNavigator">
-    <treeState>
-      <expand>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="env-gather" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-        </path>
-      </expand>
-      <select />
-    </treeState>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="20" />
-    <option name="width" value="1390" />
-    <option name="height" value="910" />
-  </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="ProjectPane" />
-      <pane id="PackagesPane" />
-    </panes>
+  <component name="ProjectId" id="1sccD9arrZDaVmlBlj6tpIOFodb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1563528296965" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/ECJTU_Hadoop_Ecosphere" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../DataStructureLearn" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="vcs.Subversion" />
+    <property name="project.structure.proportion" value="0.23771581" />
+    <property name="project.structure.side.proportion" value="0.5051282" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\GitSpace\git-hub\BriupStudy\env-gather\lib" />
+      <recent name="D:\GitSpace\git-hub\BriupStudy" />
       <recent name="D:\idea-hadoop-workpace\env-gather\src\main\java" />
       <recent name="D:\idea-hadoop-workpace\env-gather-interface\src\main\java" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.ClientMain">
-    <configuration name="ClientMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.briup.env.mian.ClientMain" />
-      <module name="env-gather" />
+  <component name="RunManager">
+    <configuration name="Test1" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.briup.demo.chap2.Test1" />
+      <module name="ECJTU_Scala" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.briup.env.mian.*" />
+          <option name="PATTERN" value="com.briup.demo.chap2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,56 +521,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GatherImpTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.briup.env.client.GatherImpTest" />
-      <module name="env-gather" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.briup.env.client.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="HelloTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.briup.env.test.HelloTest" />
-      <module name="env-gather" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.briup.env.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ServerMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.briup.env.mian.ServerMain" />
-      <module name="env-gather" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.briup.env.mian.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ClientMain" />
-        <item itemvalue="Application.ServerMain" />
-        <item itemvalue="Application.HelloTest" />
-        <item itemvalue="Application.GatherImpTest" />
+        <item itemvalue="Application.Test1" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
-    <configuration>C:\Users\Administrator\AppData\Roaming\Subversion</configuration>
+    <configuration>C:\Users\kali\AppData\Roaming\Subversion</configuration>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -198,11 +558,10 @@
       <workItem from="1563523866374" duration="3199000" />
       <workItem from="1563756378636" duration="184000" />
       <workItem from="1565337780598" duration="114000" />
+      <workItem from="1621175202019" duration="582000" />
+      <workItem from="1621178115192" duration="4147000" />
     </task>
     <servers />
-  </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22597000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -213,284 +572,69 @@
       <is-autoscroll-to-source value="true" />
     </todo-panel>
   </component>
-  <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20174263" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49932975" weight="0.05374823" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.32956153" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50067025" side_tool="true" weight="0.36350778" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.2291372" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Database" order="4" weight="0.3297587" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Maven" order="6" weight="0.25201073" />
-      <window_info anchor="right" id="Capture Analysis" order="7" />
-      <window_info anchor="right" id="Palette&#9;" order="8" />
-    </layout>
-    <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24597855" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49932975" weight="0.05374823" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.32956153" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50067025" side_tool="true" weight="0.36350778" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.2291372" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Database" order="4" weight="0.3297587" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Maven" order="6" weight="0.25201073" />
-      <window_info anchor="right" id="Capture Analysis" order="7" />
-      <window_info anchor="right" id="Palette&#9;" order="8" />
-    </layout-to-restore>
-  </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="249" y="0" key="#Project_Structure" timestamp="1621179445222">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="249" y="0" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1621179445222" />
+    <state x="223" y="70" width="1089" height="709" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1621175740344">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="70" width="1089" height="709" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1621175740344" />
+    <state x="515" y="332" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog" timestamp="1621179426282">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="515" y="332" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog/0.0.1536.824@0.0.1536.824" timestamp="1621179426282" />
+    <state x="549" y="170" key="FileChooserDialogImpl" timestamp="1621180740066">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="170" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1621180740066" />
+    <state width="1493" height="218" key="GridCell.Tab.0.bottom" timestamp="1621182359931">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="218" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1621182359931" />
+    <state width="1493" height="218" key="GridCell.Tab.0.center" timestamp="1621182359931">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="218" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1621182359931" />
+    <state width="1493" height="218" key="GridCell.Tab.0.left" timestamp="1621182359930">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="218" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1621182359930" />
+    <state width="1493" height="218" key="GridCell.Tab.0.right" timestamp="1621182359931">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="218" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1621182359931" />
+    <state x="408" y="121" key="NewModule_or_Project.wizard" timestamp="1621178684049">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="408" y="121" key="NewModule_or_Project.wizard/0.0.1536.824@0.0.1536.824" timestamp="1621178684049" />
+    <state x="249" y="0" key="SettingsEditor" timestamp="1621181639719">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1621181639719" />
+    <state x="178" y="55" key="new project wizard" timestamp="1621175776353">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="178" y="55" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1621175776353" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/env-gather-interface/src/main/java/env/mian/ClientMain.java" />
-    <entry file="file://$PROJECT_DIR$/env-gather-interface/src/main/java/com/briup/env/bean/Environment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="11" column="24" lean-forward="true" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/env-gather/src/main/java/data_file" />
-    <entry file="jar://$MAVEN_REPOSITORY$/com/oracle/ojdbc14/10.2.0.1.0/ojdbc14-10.2.0.1.0.jar!/oracle/jdbc/driver/OracleDriver.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/io/FileInputStream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="48" column="41" selection-start-line="48" selection-start-column="30" selection-end-line="48" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/env-gather/src/main/resources/data-file">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="520">
-          <caret line="65737" lean-forward="true" selection-start-line="65737" selection-end-line="65737" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/env-gather/src/main/java/com/briup/env/client/GatherImpTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-214">
-          <caret line="50" column="18" lean-forward="true" selection-start-line="50" selection-start-column="18" selection-end-line="50" selection-end-column="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/env-gather/src/main/java/com/briup/env/client/GatherImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="94" column="40" selection-start-line="94" selection-start-column="40" selection-end-line="94" selection-end-column="40" />
-          <folding>
-            <element signature="e#342#343#0" expanded="true" />
-            <element signature="e#438#439#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/env-gather/src/main/java/com/briup/env/client/ClientImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="364">
-          <caret line="17" column="27" lean-forward="true" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/env-gather/src/main/java/com/briup/env/server/ServerImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-102">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/env-gather/src/main/java/com/briup/env/test/HelloTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="532">
-          <caret line="26" column="45" selection-start-line="26" selection-start-column="45" selection-end-line="26" selection-end-column="45" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/env-gather/src/main/java/com/briup/env/server/ServerThreadImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-158">
-          <caret line="50" selection-start-line="50" selection-end-line="50" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/env-gather/src/main/java/com/briup/env/mian/ClientMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="13" column="34" lean-forward="true" selection-start-line="13" selection-start-column="34" selection-end-line="13" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/env-gather/src/main/java/com/briup/env/mian/ServerMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="9" column="8" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/env-gather/src/main/java/com/briup/env/server/DBStoreImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-140">
-          <caret line="55" column="24" selection-start-line="55" selection-start-column="24" selection-end-line="55" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/env-gather-interface/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-270">
-          <caret line="14" column="23" lean-forward="true" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/env-gather/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1736">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/env-gather/src/main/java/com/briup/env/util/BackupImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ArtifactsStructureConfigurable.UI">
-        <settings>
-          <artifact-editor />
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="FacetStructureConfigurable.UI">
-        <settings>
-          <last-edited>No facets are configured</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ModuleStructureConfigurable.UI">
-        <settings>
-          <last-edited>env-gather</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-                <option value="0.6" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
-          <last-edited>Maven: com.briup:env-gather-interface:0.0.1-SNAPSHOT</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
   </component>
 </project>

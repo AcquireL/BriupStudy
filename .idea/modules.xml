@@ -2,8 +2,21 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/BriupStudy.iml" filepath="$PROJECT_DIR$/.idea/BriupStudy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ECJTU_GRMS/ECJTU_GRMS.iml" filepath="$PROJECT_DIR$/ECJTU_GRMS/ECJTU_GRMS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ECJTU_Hadoop_Ecosphere/ECJTU_Hadoop_Ecosphere.iml" filepath="$PROJECT_DIR$/ECJTU_Hadoop_Ecosphere/ECJTU_Hadoop_Ecosphere.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ECJTU_Scala/ECJTU_Scala.iml" filepath="$PROJECT_DIR$/ECJTU_Scala/ECJTU_Scala.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ECJTU_Spark_Ecosphere/ECJTU_Spark_Ecosphere.iml" filepath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/ECJTU_Spark_Ecosphere.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ECJTU_Hadoop_Ecosphere/Exercise/Exercise.iml" filepath="$PROJECT_DIR$/ECJTU_Hadoop_Ecosphere/Exercise/Exercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Scala/Scala.iml" filepath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Scala/Scala.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/Spark.iml" filepath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/Spark.iml" />
       <module fileurl="file://$PROJECT_DIR$/env-gather/env-gather.iml" filepath="$PROJECT_DIR$/env-gather/env-gather.iml" />
       <module fileurl="file://$PROJECT_DIR$/env-gather-interface/env-gather-interface.iml" filepath="$PROJECT_DIR$/env-gather-interface/env-gather-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ECJTU_Hadoop_Ecosphere/flume/flume.iml" filepath="$PROJECT_DIR$/ECJTU_Hadoop_Ecosphere/flume/flume.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ECJTU_Hadoop_Ecosphere/hbase/hbase.iml" filepath="$PROJECT_DIR$/ECJTU_Hadoop_Ecosphere/hbase/hbase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ECJTU_Hadoop_Ecosphere/hbase1.2.6/hbase1.2.6.iml" filepath="$PROJECT_DIR$/ECJTU_Hadoop_Ecosphere/hbase1.2.6/hbase1.2.6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ECJTU_Hadoop_Ecosphere/hive/hive.iml" filepath="$PROJECT_DIR$/ECJTU_Hadoop_Ecosphere/hive/hive.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ECJTU_Hadoop_Ecosphere/zookeeper/zookeeper.iml" filepath="$PROJECT_DIR$/ECJTU_Hadoop_Ecosphere/zookeeper/zookeeper.iml" />
     </modules>
   </component>
 </project>
