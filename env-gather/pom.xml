@@ -4,10 +4,10 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
+
     <groupId>com.briup</groupId>
     <artifactId>env-gather</artifactId>
     <version>1.0-SNAPSHOT</version>
-
 
     <properties>
         <oracle.properties>10.2.0.1.0</oracle.properties>
@@ -17,24 +17,19 @@
 
     <dependencies>
         <dependency>
+            <groupId>com.briup</groupId>
+            <artifactId>env-gather-interface</artifactId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency>
+        <dependency>
             <groupId>log4j</groupId>
             <artifactId>log4j</artifactId>
             <version>${log4j.properties}</version>
         </dependency>
         <dependency>
-            <groupId>com.oracle</groupId>
-            <artifactId>ojdbc14</artifactId>
-            <version>${oracle.properties}</version>
-        </dependency>
-        <dependency>
             <groupId>dom4j</groupId>
             <artifactId>dom4j</artifactId>
             <version>${dom4j.properties}</version>
-        </dependency>
-        <dependency>
-            <groupId>com.briup</groupId>
-            <artifactId>env-gather-interface</artifactId>
-            <version>0.0.1-SNAPSHOT</version>
         </dependency>
     </dependencies>
 
