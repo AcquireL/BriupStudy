@@ -54,6 +54,7 @@ lint-r-report.log
 log/
 logs/
 out/
+/target/
 project/boot/
 project/build/target/
 project/plugins/lib_managed/

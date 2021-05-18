@@ -69,370 +69,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="849936e3-0635-4dcf-9165-0cc528f4b77b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env-gather/lib/ojdbc7.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_briup_env_gather_interface_0_0_1_SNAPSHOT.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_oracle_ojdbc14_10_2_0_1_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__dom4j_dom4j_1_6_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__dom4j_dom4j_1_6_1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_16.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_16.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__xml_apis_xml_apis_1_0_b2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xml_apis_xml_apis_1_0_b2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_GRMS/ECJTU_GRMS.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ECJTU_GRMS/ECJTU_GRMS.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_GRMS/target/classes/com/briup/grms/step1/PurchasedGoodsList$PGLMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_GRMS/target/classes/com/briup/grms/step1/PurchasedGoodsList$PGLReducer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_GRMS/target/classes/com/briup/grms/step1/PurchasedGoodsList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_GRMS/target/classes/com/briup/grms/step2/GoodsCooccurrenceList$GCLMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_GRMS/target/classes/com/briup/grms/step2/GoodsCooccurrenceList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_GRMS/target/classes/com/briup/grms/step3/GoodsCooccurrenceMatrix$GCMReducer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_GRMS/target/classes/com/briup/grms/step3/GoodsCooccurrenceMatrix.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_GRMS/target/classes/com/briup/grms/step4/PurchasedGoodsVector$PGVMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_GRMS/target/classes/com/briup/grms/step4/PurchasedGoodsVector$PGVReducer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_GRMS/target/classes/com/briup/grms/step4/PurchasedGoodsVector.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_GRMS/target/classes/com/briup/grms/step5/GetRecmandResult$GRRReducer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_GRMS/target/classes/com/briup/grms/step5/GetRecmandResult$ReadGCMatrixMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_GRMS/target/classes/com/briup/grms/step5/GetRecmandResult$ReadPGVetorMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_GRMS/target/classes/com/briup/grms/step5/GetRecmandResult.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_GRMS/target/classes/com/briup/grms/step5/IdFlag.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_GRMS/target/classes/com/briup/grms/step5/IdFlagGroupingComparator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_GRMS/target/classes/com/briup/grms/step5/IdFlagPartitioner.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_GRMS/target/classes/com/briup/grms/step6/RecmandResultSum$RRSReducer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_GRMS/target/classes/com/briup/grms/step6/RecmandResultSum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_GRMS/target/classes/com/briup/grms/step7/DuplicateRCResult$DRRReducer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_GRMS/target/classes/com/briup/grms/step7/DuplicateRCResult$ReadODMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_GRMS/target/classes/com/briup/grms/step7/DuplicateRCResult.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_GRMS/target/classes/com/briup/grms/step8/DBStore$DBMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_GRMS/target/classes/com/briup/grms/step8/DBStore.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_GRMS/target/classes/com/briup/grms/step8/UserGoodValue.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Hadoop_Ecosphere/ECJTU_Hadoop_Ecosphere.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ECJTU_Hadoop_Ecosphere/ECJTU_Hadoop_Ecosphere.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Hadoop_Ecosphere/hbase/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ECJTU_Hadoop_Ecosphere/hbase/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Hadoop_Ecosphere/hbase1.2.6/src/main/java/com/briup/search_engine/BuildInvertIndex.java" beforeDir="false" afterPath="$PROJECT_DIR$/ECJTU_Hadoop_Ecosphere/hbase1.2.6/src/main/java/com/briup/search_engine/BuildInvertIndex.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Hadoop_Ecosphere/hbase1.2.6/target/classes/META-INF/hbase126.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Hadoop_Ecosphere/hbase1.2.6/target/classes/com/briup/Hbase_Api/Api.class" beforeDir="false" afterPath="$PROJECT_DIR$/ECJTU_Hadoop_Ecosphere/hbase1.2.6/target/classes/com/briup/Hbase_Api/Api.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Hadoop_Ecosphere/hbase1.2.6/target/classes/com/briup/search_engine/BuildInvertIndex$InvertMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/ECJTU_Hadoop_Ecosphere/hbase1.2.6/target/classes/com/briup/search_engine/BuildInvertIndex$InvertMapper.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Hadoop_Ecosphere/hbase1.2.6/target/classes/com/briup/search_engine/BuildInvertIndex$InvertReducer.class" beforeDir="false" afterPath="$PROJECT_DIR$/ECJTU_Hadoop_Ecosphere/hbase1.2.6/target/classes/com/briup/search_engine/BuildInvertIndex$InvertReducer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Hadoop_Ecosphere/hbase1.2.6/target/classes/com/briup/search_engine/BuildInvertIndex.class" beforeDir="false" afterPath="$PROJECT_DIR$/ECJTU_Hadoop_Ecosphere/hbase1.2.6/target/classes/com/briup/search_engine/BuildInvertIndex.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Hadoop_Ecosphere/hive/hive.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ECJTU_Hadoop_Ecosphere/hive/hive.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Hadoop_Ecosphere/hive/target/classes/com/briup/jdbc/HiveJDBCTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/ECJTU_Hadoop_Ecosphere/hive/target/classes/com/briup/jdbc/HiveJDBCTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Hadoop_Ecosphere/zookeeper/zookeeper.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ECJTU_Hadoop_Ecosphere/zookeeper/zookeeper.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Scala/ECJTU_Scala.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ECJTU_Scala/ECJTU_Scala.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Scala/out/production/ECJTU_Scala/META-INF/ECJTU_Scala.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Scala/out/production/ECJTU_Scala/com/briup/demo/Test$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Scala/out/production/ECJTU_Scala/com/briup/demo/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Scala/out/production/ECJTU_Scala/com/briup/demo/chap2/Test1$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Scala/out/production/ECJTU_Scala/com/briup/demo/chap2/Test1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Scala/out/production/ECJTU_Scala/com/briup/demo/chap2/Test4$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Scala/out/production/ECJTU_Scala/com/briup/demo/chap2/Test4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Scala/out/production/ECJTU_Scala/com/briup/demo/chap2/Test5$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Scala/out/production/ECJTU_Scala/com/briup/demo/chap2/Test5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Scala/out/production/ECJTU_Scala/com/briup/demo/chap2/Test6$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Scala/out/production/ECJTU_Scala/com/briup/demo/chap2/Test6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Scala/out/production/ECJTU_Scala/com/briup/demo/chap2/Test7$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Scala/out/production/ECJTU_Scala/com/briup/demo/chap2/Test7.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Scala/out/production/ECJTU_Scala/com/briup/demo/chap2/Test9$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Scala/out/production/ECJTU_Scala/com/briup/demo/chap2/Test9.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Scala/out/production/ECJTU_Scala/ecjtu/java/Client.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Scala/out/production/ECJTU_Scala/ecjtu/java/DBStore.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Scala/out/production/ECJTU_Scala/ecjtu/java/Server.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/ECJTU_Spark_Ecosphere.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/ECJTU_Spark_Ecosphere.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Scala/Scala.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Scala/Scala.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Scala/target/classes/ECJTU_Spark_Ecosphere/App$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Scala/target/classes/ECJTU_Spark_Ecosphere/App$delayedInit$body.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Scala/target/classes/ECJTU_Spark_Ecosphere/App.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/META-INF/Spark.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/CreateRDD$$anonfun$main$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/CreateRDD$$anonfun$main$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/CreateRDD$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/CreateRDD.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/MovieRDDTest$$anonfun$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/MovieRDDTest$$anonfun$10.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/MovieRDDTest$$anonfun$11.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/MovieRDDTest$$anonfun$12.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/MovieRDDTest$$anonfun$13.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/MovieRDDTest$$anonfun$14.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/MovieRDDTest$$anonfun$15.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/MovieRDDTest$$anonfun$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/MovieRDDTest$$anonfun$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/MovieRDDTest$$anonfun$4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/MovieRDDTest$$anonfun$5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/MovieRDDTest$$anonfun$6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/MovieRDDTest$$anonfun$7.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/MovieRDDTest$$anonfun$8.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/MovieRDDTest$$anonfun$9.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/MovieRDDTest$$anonfun$avgScore$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/MovieRDDTest$$anonfun$avgScore$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/MovieRDDTest$$anonfun$first$1$$anonfun$apply$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/MovieRDDTest$$anonfun$first$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/MovieRDDTest$$anonfun$pageRank$1$$anonfun$apply$mcVI$sp$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/MovieRDDTest$$anonfun$pageRank$1$$anonfun$apply$mcVI$sp$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/MovieRDDTest$$anonfun$pageRank$1$$anonfun$apply$mcVI$sp$3$$anonfun$apply$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/MovieRDDTest$$anonfun$pageRank$1$$anonfun$apply$mcVI$sp$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/MovieRDDTest$$anonfun$pageRank$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/MovieRDDTest$$anonfun$pageRank$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/MovieRDDTest$$anonfun$pageRank$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/MovieRDDTest$$anonfun$read$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/MovieRDDTest$$anonfun$second$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/MovieRDDTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/StringAccumulator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/TopicRDDTest$$anonfun$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/TopicRDDTest$$anonfun$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/TopicRDDTest$$anonfun$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/TopicRDDTest$$anonfun$topic$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/TopicRDDTest$$anonfun$topic$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/TopicRDDTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/WordCount$$anonfun$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/WordCount$$anonfun$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/WordCount$$anonfun$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/WordCount$$anonfun$main$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/WordCount$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/WordCount.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/homework/BabyRDD$$anonfun$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/homework/BabyRDD$$anonfun$10.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/homework/BabyRDD$$anonfun$11.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/homework/BabyRDD$$anonfun$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/homework/BabyRDD$$anonfun$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/homework/BabyRDD$$anonfun$4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/homework/BabyRDD$$anonfun$5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/homework/BabyRDD$$anonfun$6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/homework/BabyRDD$$anonfun$7.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/homework/BabyRDD$$anonfun$8.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/homework/BabyRDD$$anonfun$9.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/homework/BabyRDD$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/homework/BabyRDD$delayedInit$body.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/homework/BabyRDD.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/homework/BabyRDD1$$anonfun$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/homework/BabyRDD1$$anonfun$10.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/homework/BabyRDD1$$anonfun$11.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/homework/BabyRDD1$$anonfun$2$$anonfun$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/homework/BabyRDD1$$anonfun$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/homework/BabyRDD1$$anonfun$4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/homework/BabyRDD1$$anonfun$5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/homework/BabyRDD1$$anonfun$6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/homework/BabyRDD1$$anonfun$7.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/homework/BabyRDD1$$anonfun$8.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/homework/BabyRDD1$$anonfun$9.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/homework/BabyRDD1$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/homework/BabyRDD1$delayedInit$body.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/homework/BabyRDD1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/homework/BabyRDD3$$anonfun$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/homework/BabyRDD3$$anonfun$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/homework/BabyRDD3$$anonfun$3$$anonfun$4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/homework/BabyRDD3$$anonfun$3$$anonfun$5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/homework/BabyRDD3$$anonfun$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/homework/BabyRDD3$$anonfun$6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/homework/BabyRDD3$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/homework/BabyRDD3$delayedInit$body.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/homework/BabyRDD3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/homework/BabyRDD4$$anonfun$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/homework/BabyRDD4$$anonfun$2$$anonfun$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/homework/BabyRDD4$$anonfun$2$$anonfun$4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/homework/BabyRDD4$$anonfun$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/homework/BabyRDD4$$anonfun$5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/homework/BabyRDD4$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/homework/BabyRDD4$delayedInit$body.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/homework/BabyRDD4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/homework/BabyRDD5$$anonfun$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/homework/BabyRDD5$$anonfun$2$$anonfun$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/homework/BabyRDD5$$anonfun$2$$anonfun$4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/homework/BabyRDD5$$anonfun$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/homework/BabyRDD5$$anonfun$5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/homework/BabyRDD5$$anonfun$6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/homework/BabyRDD5$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/homework/BabyRDD5$delayedInit$body.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/homework/BabyRDD5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/homework/Fun$$anonfun$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/homework/Fun$$anonfun$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/homework/Fun$$anonfun$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/homework/Fun$$anonfun$map$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/homework/Fun$$anonfun$map$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/homework/Fun$$anonfun$map$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/homework/Fun$$anonfun$map$4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/homework/Fun.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/homework/package$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/homework/package.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/homework/test$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/homework/test$delayedInit$body.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/homework/test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/package$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/core/package.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/mapGroupOperator/Event$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/mapGroupOperator/Event.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/mapGroupOperator/FormatData$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/mapGroupOperator/FormatData.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/mapGroupOperator/InitData$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/mapGroupOperator/InitData.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/mapGroupOperator/MapGroupWithState$$anonfun$1$$anonfun$apply$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/mapGroupOperator/MapGroupWithState$$anonfun$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/mapGroupOperator/MapGroupWithState$$anonfun$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/mapGroupOperator/MapGroupWithState$$anonfun$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/mapGroupOperator/MapGroupWithState$$anonfun$4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/mapGroupOperator/MapGroupWithState$$anonfun$5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/mapGroupOperator/MapGroupWithState$$typecreator19$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/mapGroupOperator/MapGroupWithState$$typecreator20$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/mapGroupOperator/MapGroupWithState$$typecreator28$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/mapGroupOperator/MapGroupWithState$$typecreator32$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/mapGroupOperator/MapGroupWithState$$typecreator4$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/mapGroupOperator/MapGroupWithState$$typecreator5$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/mapGroupOperator/MapGroupWithState$$typecreator9$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/mapGroupOperator/MapGroupWithState.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/mapGroupOperator/ResultData$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/mapGroupOperator/ResultData.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/mapGroupOperator/ResultState$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/mapGroupOperator/ResultState.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/mapGroupOperator/SessionInfo$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/mapGroupOperator/SessionInfo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/mapGroupOperator/SessionUpdate$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/mapGroupOperator/SessionUpdate.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/mapGroupOperator/StructuredSessionization$$anonfun$1$$anonfun$apply$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/mapGroupOperator/StructuredSessionization$$anonfun$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/mapGroupOperator/StructuredSessionization$$anonfun$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/mapGroupOperator/StructuredSessionization$$anonfun$3$$anonfun$4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/mapGroupOperator/StructuredSessionization$$anonfun$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/mapGroupOperator/StructuredSessionization$$typecreator15$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/mapGroupOperator/StructuredSessionization$$typecreator16$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/mapGroupOperator/StructuredSessionization$$typecreator4$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/mapGroupOperator/StructuredSessionization$$typecreator5$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/mapGroupOperator/StructuredSessionization$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/mapGroupOperator/StructuredSessionization.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/shangji/Father.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/shangji/Son.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/shangji/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/shangji/Test1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/shangji/Test2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/shangji/Test3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/shangji/Test4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/shangji/Test5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/shangji/io/FileReadTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/shangji/io/InputStreamTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/shangji/test6/Cuboid.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/shangji/test6/Rectangle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/shangji/test6/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/sql/BabyDataAnalysis$$anonfun$1$$anonfun$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/sql/BabyDataAnalysis$$anonfun$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/sql/BabyDataAnalysis$$typecreator5$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/sql/BabyDataAnalysis.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/sql/BabyYobInfo$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/sql/BabyYobInfo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/sql/DFAndDSTest$$typecreator1$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/sql/DFAndDSTest$$typecreator13$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/sql/DFAndDSTest$$typecreator18$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/sql/DFAndDSTest$$typecreator6$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/sql/DFAndDSTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/sql/Date$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/sql/Date.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/sql/IOTest$$typecreator5$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/sql/IOTest$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/sql/IOTest$delayedInit$body.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/sql/IOTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/sql/Order$$anonfun$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/sql/Order$$anonfun$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/sql/Order$$anonfun$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/sql/Order$$typecreator13$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/sql/Order$$typecreator21$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/sql/Order$$typecreator5$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/sql/Order.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/sql/Person$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/sql/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/sql/Score$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/sql/Score.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/sql/Stock$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/sql/Stock.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/sql/StockDetaili$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/sql/StockDetaili.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/sql/Stu$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/sql/Stu.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/sql/Student$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/sql/Student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/sql/WindowFunTest$$typecreator5$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/sql/WindowFunTest$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/sql/WindowFunTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/sql/package$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/sql/package.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/streaming/BlackListMain$$anon$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/streaming/BlackListMain$$anonfun$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/streaming/BlackListMain$$anonfun$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/streaming/BlackListMain$$typecreator12$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/streaming/BlackListMain$$typecreator13$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/streaming/BlackListMain$$typecreator17$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/streaming/BlackListMain$$typecreator4$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/streaming/BlackListMain$$typecreator5$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/streaming/BlackListMain.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/streaming/JsonFileSourceTest$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/streaming/JsonFileSourceTest$delayedInit$body.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/streaming/JsonFileSourceTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/streaming/KafkaSourceTest$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/streaming/KafkaSourceTest$delayedInit$body.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/streaming/KafkaSourceTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/streaming/MassageServer$$anon$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/streaming/MassageServer$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/streaming/MassageServer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/streaming/OldApiTest$$anonfun$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/streaming/OldApiTest$$anonfun$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/streaming/OldApiTest$$anonfun$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/streaming/OldApiTest$$anonfun$4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/streaming/OldApiTest$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/streaming/OldApiTest$delayedInit$body.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/streaming/OldApiTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/streaming/SocketSourceTest$$anonfun$1$$anonfun$apply$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/streaming/SocketSourceTest$$anonfun$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/streaming/SocketSourceTest$$typecreator4$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/streaming/SocketSourceTest$$typecreator5$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/streaming/SocketSourceTest$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/streaming/SocketSourceTest$delayedInit$body.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/streaming/SocketSourceTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/streaming/TextFileSourceTest$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/streaming/TextFileSourceTest$delayedInit$body.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/streaming/TextFileSourceTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/streaming/WindowsOper$$anonfun$1$$anonfun$apply$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/streaming/WindowsOper$$anonfun$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/streaming/WindowsOper$$typecreator4$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/streaming/WindowsOper$$typecreator8$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/streaming/WindowsOper$$typecreator9$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/streaming/WindowsOper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/streaming/package$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/streaming/package.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/streamingProject/GoodMain$$anonfun$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/streamingProject/GoodMain$$anonfun$2$$anonfun$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/streamingProject/GoodMain$$anonfun$2$$anonfun$4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/streamingProject/GoodMain$$anonfun$2$$anonfun$5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/streamingProject/GoodMain$$anonfun$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/streamingProject/GoodMain$$anonfun$6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/streamingProject/GoodMain$$typecreator16$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/streamingProject/GoodMain$$typecreator20$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/streamingProject/GoodMain$$typecreator7$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/streamingProject/GoodMain$$typecreator8$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/streamingProject/GoodMain$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/streamingProject/GoodMain$delayedInit$body.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/streamingProject/GoodMain.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/streamingProject/ResultGoodData$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/streamingProject/ResultGoodData.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/streamingProject/ResultGoodState$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/streamingProject/ResultGoodState.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/streamingProject/project$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/streamingProject/project$delayedInit$body.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/classes/com/briup/streamingProject/project.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/target/classes/META-INF/ECJTU_Spark_Ecosphere.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/target/test-classes/META-INF/ECJTU_Spark_Ecosphere.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/env-gather-interface/env-gather-interface.iml" beforeDir="false" afterPath="$PROJECT_DIR$/env-gather-interface/env-gather-interface.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/env-gather-interface/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/env-gather-interface/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/env-gather/env-gather.iml" beforeDir="false" afterPath="$PROJECT_DIR$/env-gather/env-gather.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/env-gather/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/env-gather/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/env-gather/target/classes/com/briup/env/client/ClientImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/env-gather/target/classes/com/briup/env/client/GatherImpTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/env-gather/target/classes/com/briup/env/client/GatherImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/env-gather/target/classes/com/briup/env/mian/ClientMain.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/env-gather/target/classes/com/briup/env/mian/ServerMain.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/env-gather/target/classes/com/briup/env/server/DBStoreImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/env-gather/target/classes/com/briup/env/server/ServerImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/env-gather/target/classes/com/briup/env/server/ServerThreadImpl$Handler.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/env-gather/target/classes/com/briup/env/server/ServerThreadImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/env-gather/target/classes/com/briup/env/test/HelloTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/env-gather/target/classes/data-file" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -490,13 +128,13 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1563528296965" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../DataStructureLearn" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.23771581" />
     <property name="project.structure.side.proportion" value="0.5051282" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -559,7 +197,9 @@
       <workItem from="1563756378636" duration="184000" />
       <workItem from="1565337780598" duration="114000" />
       <workItem from="1621175202019" duration="582000" />
-      <workItem from="1621178115192" duration="4147000" />
+      <workItem from="1621178115192" duration="4950000" />
+      <workItem from="1621342951054" duration="806000" />
+      <workItem from="1621345549759" duration="2331000" />
     </task>
     <servers />
   </component>
@@ -587,6 +227,9 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="249" y="0" key="#Project_Structure" timestamp="1621179445222">
       <screen x="0" y="0" width="1536" height="824" />
@@ -600,34 +243,46 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="515" y="332" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog/0.0.1536.824@0.0.1536.824" timestamp="1621179426282" />
-    <state x="549" y="170" key="FileChooserDialogImpl" timestamp="1621180740066">
+    <state x="147" y="65" key="DiffContextDialog" timestamp="1621342980544">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="549" y="170" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1621180740066" />
-    <state width="1493" height="218" key="GridCell.Tab.0.bottom" timestamp="1621182359931">
+    <state x="147" y="65" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1621342980544" />
+    <state x="549" y="170" key="FileChooserDialogImpl" timestamp="1621343689226">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="218" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1621182359931" />
-    <state width="1493" height="218" key="GridCell.Tab.0.center" timestamp="1621182359931">
+    <state x="549" y="170" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1621343689226" />
+    <state width="1493" height="218" key="GridCell.Tab.0.bottom" timestamp="1621183800491">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="218" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1621182359931" />
-    <state width="1493" height="218" key="GridCell.Tab.0.left" timestamp="1621182359930">
+    <state width="1493" height="218" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1621183800491" />
+    <state width="1493" height="218" key="GridCell.Tab.0.center" timestamp="1621183800490">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="218" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1621182359930" />
-    <state width="1493" height="218" key="GridCell.Tab.0.right" timestamp="1621182359931">
+    <state width="1493" height="218" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1621183800490" />
+    <state width="1493" height="218" key="GridCell.Tab.0.left" timestamp="1621183800489">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="218" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1621182359931" />
+    <state width="1493" height="218" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1621183800489" />
+    <state width="1493" height="218" key="GridCell.Tab.0.right" timestamp="1621183800490">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="218" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1621183800490" />
     <state x="408" y="121" key="NewModule_or_Project.wizard" timestamp="1621178684049">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="408" y="121" key="NewModule_or_Project.wizard/0.0.1536.824@0.0.1536.824" timestamp="1621178684049" />
-    <state x="249" y="0" key="SettingsEditor" timestamp="1621181639719">
+    <state x="249" y="0" key="SettingsEditor" timestamp="1621345750407">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1621181639719" />
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1621345750407" />
+    <state x="361" y="148" key="Vcs.Push.Dialog.v2" timestamp="1621346423759">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="148" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1621346423759" />
+    <state x="575" y="328" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1621346100031">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="575" y="328" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1621346100031" />
     <state x="178" y="55" key="new project wizard" timestamp="1621175776353">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
