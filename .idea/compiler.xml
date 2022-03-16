@@ -10,8 +10,8 @@
         <module name="Exercise" />
         <module name="zookeeper" />
         <module name="env-gather-interface" />
-        <module name="BriupStudy" />
         <module name="Scala" />
+        <module name="BriupStudy" />
         <module name="flume" />
         <module name="Spark" />
         <module name="ECJTU_GRMS" />

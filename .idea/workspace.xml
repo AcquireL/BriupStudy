@@ -69,8 +69,70 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="849936e3-0635-4dcf-9165-0cc528f4b77b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__dom4j_dom4j_1_6_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__dom4j_dom4j_1_6_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_16.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_16.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__xml_apis_xml_apis_1_0_b2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xml_apis_xml_apis_1_0_b2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_GRMS/ECJTU_GRMS.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ECJTU_GRMS/ECJTU_GRMS.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_GRMS/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ECJTU_GRMS/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_GRMS/target/ECJTU_GRMS-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_GRMS/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_GRMS/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_GRMS/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_GRMS/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Hadoop_Ecosphere/ECJTU_Hadoop_Ecosphere.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ECJTU_Hadoop_Ecosphere/ECJTU_Hadoop_Ecosphere.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Hadoop_Ecosphere/hive/hive.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ECJTU_Hadoop_Ecosphere/hive/hive.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Hadoop_Ecosphere/hive/target/classes/com/briup/jdbc/HiveJDBCTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Hadoop_Ecosphere/hive/target/classes/com/briup/udf/GetArea.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Hadoop_Ecosphere/hive/target/hive-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Hadoop_Ecosphere/hive/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Hadoop_Ecosphere/hive/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Hadoop_Ecosphere/hive/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Hadoop_Ecosphere/hive/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Hadoop_Ecosphere/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ECJTU_Hadoop_Ecosphere/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Hadoop_Ecosphere/zookeeper/target/classes/com/briup/basic/CreateTest$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Hadoop_Ecosphere/zookeeper/target/classes/com/briup/basic/CreateTest$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Hadoop_Ecosphere/zookeeper/target/classes/com/briup/basic/CreateTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Hadoop_Ecosphere/zookeeper/target/classes/com/briup/basic/DeleteTest$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Hadoop_Ecosphere/zookeeper/target/classes/com/briup/basic/DeleteTest$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Hadoop_Ecosphere/zookeeper/target/classes/com/briup/basic/DeleteTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Hadoop_Ecosphere/zookeeper/target/classes/com/briup/basic/ExistsTest$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Hadoop_Ecosphere/zookeeper/target/classes/com/briup/basic/ExistsTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Hadoop_Ecosphere/zookeeper/target/classes/com/briup/basic/ReadTest$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Hadoop_Ecosphere/zookeeper/target/classes/com/briup/basic/ReadTest$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Hadoop_Ecosphere/zookeeper/target/classes/com/briup/basic/ReadTest$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Hadoop_Ecosphere/zookeeper/target/classes/com/briup/basic/ReadTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Hadoop_Ecosphere/zookeeper/target/classes/com/briup/basic/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Hadoop_Ecosphere/zookeeper/target/classes/com/briup/basic/WriteTest$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Hadoop_Ecosphere/zookeeper/target/classes/com/briup/basic/WriteTest$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Hadoop_Ecosphere/zookeeper/target/classes/com/briup/basic/WriteTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Hadoop_Ecosphere/zookeeper/target/classes/com/briup/basic/ZKConnection.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Hadoop_Ecosphere/zookeeper/target/classes/com/briup/common/ConnectionWatcher.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Hadoop_Ecosphere/zookeeper/target/classes/com/briup/zookeeper/config/ActiveKeyValueStore.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Hadoop_Ecosphere/zookeeper/target/classes/com/briup/zookeeper/config/Executor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Hadoop_Ecosphere/zookeeper/target/classes/com/briup/zookeeper/config/Server.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Hadoop_Ecosphere/zookeeper/target/classes/com/briup/zookeeper/config/ServerConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Hadoop_Ecosphere/zookeeper/target/classes/com/briup/zookeeper/lock/WriteLock$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Hadoop_Ecosphere/zookeeper/target/classes/com/briup/zookeeper/lock/WriteLock.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Hadoop_Ecosphere/zookeeper/zookeeper.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ECJTU_Hadoop_Ecosphere/zookeeper/zookeeper.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/target/ECJTU_Spark_Ecosphere-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/env-gather/target/classes/com/briup/env/client/ClientImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/env-gather/target/classes/com/briup/env/client/GatherImpTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/env-gather/target/classes/com/briup/env/client/GatherImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/env-gather/target/classes/com/briup/env/mian/ClientMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/env-gather/target/classes/com/briup/env/mian/ServerMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/env-gather/target/classes/com/briup/env/server/DBStoreImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/env-gather/target/classes/com/briup/env/server/ServerImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/env-gather/target/classes/com/briup/env/server/ServerThreadImpl$Handler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/env-gather/target/classes/com/briup/env/server/ServerThreadImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/env-gather/target/classes/com/briup/env/test/HelloTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/env-gather/target/classes/data-file" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,9 +169,8 @@
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="localRepository" value="D:\apache-maven-3.6.3\repository" />
-        <option name="mavenHome" value="D:\apache-maven-3.6.3" />
-        <option name="userSettingsFile" value="D:\apache-maven-3.6.3\conf\settings.xml" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../apache-maven-3.8.2" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.8.2\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
   </component>
@@ -134,7 +195,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.23771581" />
     <property name="project.structure.side.proportion" value="0.5051282" />
-    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -146,6 +207,17 @@
     </key>
   </component>
   <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Test1" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.briup.demo.chap2.Test1" />
       <module name="ECJTU_Scala" />
@@ -155,17 +227,6 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -200,6 +261,7 @@
       <workItem from="1621178115192" duration="4950000" />
       <workItem from="1621342951054" duration="806000" />
       <workItem from="1621345549759" duration="2331000" />
+      <workItem from="1647434375060" duration="740000" />
     </task>
     <servers />
   </component>
@@ -215,6 +277,378 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="UnknownFeatures">
+    <option featureType="dependencySupport" implementationName="java:org.apache.hadoop:hadoop-distcp" />
+    <option featureType="dependencySupport" implementationName="java:org.slf4j:jul-to-slf4j" />
+    <option featureType="dependencySupport" implementationName="java:com.jolbox:bonecp" />
+    <option featureType="dependencySupport" implementationName="java:com.twitter:parquet-hadoop-bundle" />
+    <option featureType="dependencySupport" implementationName="java:org.htrace:htrace-core" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.calcite:calcite-core" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.logging.log4j:log4j-1.2-api" />
+    <option featureType="dependencySupport" implementationName="java:com.zaxxer:HikariCP" />
+    <option featureType="dependencySupport" implementationName="java:org.eclipse.jetty:jetty-servlet" />
+    <option featureType="dependencySupport" implementationName="java:org.glassfish.jersey.core:jersey-common" />
+    <option featureType="dependencySupport" implementationName="java:net.minidev:accessors-smart" />
+    <option featureType="dependencySupport" implementationName="java:org.glassfish.web:javax.servlet.jsp" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.hbase:hbase-common" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.spark:spark-hive_2.11" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.slider:slider-core" />
+    <option featureType="dependencySupport" implementationName="java:com.ning:compress-lzf" />
+    <option featureType="dependencySupport" implementationName="java:org.iq80.snappy:snappy" />
+    <option featureType="dependencySupport" implementationName="java:com.google.code.gson:gson" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.curator:apache-curator" />
+    <option featureType="dependencySupport" implementationName="java:org.json4s:json4s-ast_2.11" />
+    <option featureType="dependencySupport" implementationName="java:io.dropwizard.metrics:metrics-jvm" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.twill:twill-discovery-api" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.xbean:xbean-asm6-shaded" />
+    <option featureType="dependencySupport" implementationName="java:javax.ws.rs:jsr311-api" />
+    <option featureType="dependencySupport" implementationName="java:org.eclipse.jetty:jetty-xml" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.hive:hive-llap-server" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.spark:spark-network-shuffle_2.11" />
+    <option featureType="dependencySupport" implementationName="java:xerces:xercesImpl" />
+    <option featureType="dependencySupport" implementationName="java:org.glassfish.jersey.bundles.repackaged:jersey-guava" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.hbase:hbase-client" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.kerby:kerb-crypto" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.hadoop:hadoop-yarn-registry" />
+    <option featureType="dependencySupport" implementationName="java:commons-lang:commons-lang" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.avro:avro" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.parquet:parquet-hadoop-bundle" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.hbase.thirdparty:hbase-shaded-netty" />
+    <option featureType="dependencySupport" implementationName="java:org.glassfish.jersey.core:jersey-client" />
+    <option featureType="dependencySupport" implementationName="java:net.sf.py4j:py4j" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.calcite:calcite-druid" />
+    <option featureType="dependencySupport" implementationName="java:com.google.inject:guice" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.flume.flume-ng-configfilters:flume-ng-config-filter-api" />
+    <option featureType="dependencySupport" implementationName="java:org.glassfish.hk2.external:aopalliance-repackaged" />
+    <option featureType="dependencySupport" implementationName="java:org.glassfish.hk2.external:javax.inject" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.arrow:arrow-format" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.hbase:hbase-protocol-shaded" />
+    <option featureType="dependencySupport" implementationName="java:commons-net:commons-net" />
+    <option featureType="dependencySupport" implementationName="java:org.datanucleus:datanucleus-core" />
+    <option featureType="dependencySupport" implementationName="java:org.codehaus.janino:janino" />
+    <option featureType="dependencySupport" implementationName="java:net.hydromatic:eigenbase-properties" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.parquet:parquet-jackson" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.hive:hive-metastore" />
+    <option featureType="dependencySupport" implementationName="java:org.eclipse.jetty:jetty-http" />
+    <option featureType="dependencySupport" implementationName="java:javax.ws.rs:javax.ws.rs-api" />
+    <option featureType="dependencySupport" implementationName="java:com.carrotsearch:hppc" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.twill:twill-core" />
+    <option featureType="dependencySupport" implementationName="java:co.cask.tephra:tephra-hbase-compat-1.0" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.kerby:kerb-server" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.hadoop:hadoop-yarn-client" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.hbase:hbase-mapreduce" />
+    <option featureType="dependencySupport" implementationName="java:com.fasterxml.jackson.core:jackson-databind" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.orc:orc-mapreduce" />
+    <option featureType="dependencySupport" implementationName="java:org.codehaus.jettison:jettison" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.hadoop:hadoop-yarn-server-web-proxy" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.directory.api:api-asn1-api" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.thrift:libthrift" />
+    <option featureType="dependencySupport" implementationName="java:com.thoughtworks.paranamer:paranamer" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.avro:avro-ipc" />
+    <option featureType="dependencySupport" implementationName="java:com.fasterxml.jackson.jaxrs:jackson-jaxrs-json-provider" />
+    <option featureType="dependencySupport" implementationName="java:org.slf4j:slf4j-api" />
+    <option featureType="dependencySupport" implementationName="java:com.esotericsoftware:minlog" />
+    <option featureType="dependencySupport" implementationName="java:com.squareup.okhttp:okhttp" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.parquet:parquet-encoding" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.hbase:hbase-replication" />
+    <option featureType="dependencySupport" implementationName="java:antlr:antlr" />
+    <option featureType="dependencySupport" implementationName="java:io.airlift:slice" />
+    <option featureType="dependencySupport" implementationName="java:commons-configuration:commons-configuration" />
+    <option featureType="dependencySupport" implementationName="java:net.sf.ezmorph:ezmorph" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.hadoop:hadoop-auth" />
+    <option featureType="dependencySupport" implementationName="java:log4j:apache-log4j-extras" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.kerby:kerb-core" />
+    <option featureType="dependencySupport" implementationName="java:tomcat:jasper-compiler" />
+    <option featureType="dependencySupport" implementationName="java:net.sf.opencsv:opencsv" />
+    <option featureType="dependencySupport" implementationName="java:javolution:javolution" />
+    <option featureType="dependencySupport" implementationName="java:io.airlift:aircompressor" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.spark:spark-streaming_2.11" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.httpcomponents:httpclient" />
+    <option featureType="dependencySupport" implementationName="java:com.google.re2j:re2j" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.spark:spark-launcher_2.11" />
+    <option featureType="dependencySupport" implementationName="java:mysql:mysql-connector-java" />
+    <option featureType="dependencySupport" implementationName="java:it.unimi.dsi:fastutil" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.commons:commons-crypto" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.thrift:libfb303" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.hadoop:hadoop-yarn-server-resourcemanager" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.logging.log4j:log4j-core" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.hadoop:hadoop-annotations" />
+    <option featureType="dependencySupport" implementationName="java:org.eclipse.jetty:jetty-security" />
+    <option featureType="dependencySupport" implementationName="java:com.github.joshelser:dropwizard-metrics-hadoop-metrics2-reporter" />
+    <option featureType="dependencySupport" implementationName="java:io.dropwizard.metrics:metrics-graphite" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.hbase:hbase-http" />
+    <option featureType="dependencySupport" implementationName="java:javax.inject:javax.inject" />
+    <option featureType="dependencySupport" implementationName="java:commons-codec:commons-codec" />
+    <option featureType="dependencySupport" implementationName="java:com.google.inject.extensions:guice-assistedinject" />
+    <option featureType="dependencySupport" implementationName="java:com.fasterxml.jackson.jaxrs:jackson-jaxrs-base" />
+    <option featureType="dependencySupport" implementationName="java:co.cask.tephra:tephra-api" />
+    <option featureType="dependencySupport" implementationName="java:xml-apis:xml-apis" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.hadoop:hadoop-mapreduce-client-shuffle" />
+    <option featureType="dependencySupport" implementationName="java:javax.activation:activation" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.hadoop:hadoop-yarn-server-applicationhistoryservice" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.arrow:arrow-memory" />
+    <option featureType="dependencySupport" implementationName="java:javax.validation:validation-api" />
+    <option featureType="dependencySupport" implementationName="java:commons-httpclient:commons-httpclient" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.directory.server:apacheds-i18n" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.spark:spark-unsafe_2.11" />
+    <option featureType="dependencySupport" implementationName="java:jdk.tools:jdk.tools" />
+    <option featureType="dependencySupport" implementationName="java:org.roaringbitmap:RoaringBitmap" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.hadoop:hadoop-yarn-server-common" />
+    <option featureType="dependencySupport" implementationName="java:javax.servlet:servlet-api" />
+    <option featureType="dependencySupport" implementationName="java:com.esotericsoftware:kryo-shaded" />
+    <option featureType="dependencySupport" implementationName="java:com.squareup.okio:okio" />
+    <option featureType="dependencySupport" implementationName="java:javax.servlet:jsp-api" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.htrace:htrace-core4" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.commons:commons-compress" />
+    <option featureType="dependencySupport" implementationName="java:org.glassfish.hk2:osgi-resource-locator" />
+    <option featureType="dependencySupport" implementationName="java:stax:stax-api" />
+    <option featureType="dependencySupport" implementationName="java:commons-el:commons-el" />
+    <option featureType="dependencySupport" implementationName="java:com.fasterxml.jackson.module:jackson-module-scala_2.11" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.kerby:kerby-util" />
+    <option featureType="dependencySupport" implementationName="java:org.fusesource.leveldbjni:leveldbjni-all" />
+    <option featureType="dependencySupport" implementationName="java:org.antlr:ST4" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.curator:curator-client" />
+    <option featureType="dependencySupport" implementationName="java:com.twitter:chill-java" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.arrow:arrow-vector" />
+    <option featureType="dependencySupport" implementationName="java:com.github.stephenc.jcip:jcip-annotations" />
+    <option featureType="dependencySupport" implementationName="java:co.cask.tephra:tephra-core" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.ant:ant-launcher" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.calcite.avatica:avatica-metrics" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.commons:commons-math" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.kerby:kerb-admin" />
+    <option featureType="dependencySupport" implementationName="java:org.spark-project.hive:hive-exec" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.yetus:audience-annotations" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.twill:twill-zookeeper" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.geronimo.specs:geronimo-jaspic_1.0_spec" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.logging.log4j:log4j-slf4j-impl" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.calcite:calcite-avatica" />
+    <option featureType="dependencySupport" implementationName="java:org.glassfish.jersey.containers:jersey-container-servlet" />
+    <option featureType="dependencySupport" implementationName="java:oro:oro" />
+    <option featureType="dependencySupport" implementationName="java:org.pentaho:pentaho-aggdesigner-algorithm" />
+    <option featureType="dependencySupport" implementationName="java:com.fasterxml.jackson.core:jackson-annotations" />
+    <option featureType="dependencySupport" implementationName="java:org.datanucleus:datanucleus-rdbms" />
+    <option featureType="dependencySupport" implementationName="java:com.github.stephenc.findbugs:findbugs-annotations" />
+    <option featureType="dependencySupport" implementationName="java:com.fasterxml.jackson.core:jackson-core" />
+    <option featureType="dependencySupport" implementationName="java:org.codehaus.janino:commons-compiler" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.parquet:parquet-hadoop" />
+    <option featureType="dependencySupport" implementationName="java:org.slf4j:jcl-over-slf4j" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.hive:hive-storage-api" />
+    <option featureType="dependencySupport" implementationName="java:org.mortbay.jetty:servlet-api-2.5" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.directory.server:apacheds-kerberos-codec" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.kerby:kerb-simplekdc" />
+    <option featureType="dependencySupport" implementationName="java:org.scala-lang.modules:scala-xml_2.11" />
+    <option featureType="dependencySupport" implementationName="java:org.glassfish.hk2:hk2-locator" />
+    <option featureType="dependencySupport" implementationName="java:javax.transaction:jta" />
+    <option featureType="dependencySupport" implementationName="java:jline:jline" />
+    <option featureType="dependencySupport" implementationName="java:org.json4s:json4s-jackson_2.11" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.kerby:kerby-config" />
+    <option featureType="dependencySupport" implementationName="java:io.dropwizard.metrics:metrics-core" />
+    <option featureType="dependencySupport" implementationName="java:org.glassfish:javax.el" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.hbase:hbase-protocol" />
+    <option featureType="dependencySupport" implementationName="java:com.vlkan:flatbuffers" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.kerby:token-provider" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.flume:flume-ng-configuration" />
+    <option featureType="dependencySupport" implementationName="java:org.jruby.jcodings:jcodings" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.hbase:hbase-annotations" />
+    <option featureType="dependencySupport" implementationName="java:org.spark-project.hive:hive-metastore" />
+    <option featureType="dependencySupport" implementationName="java:com.fasterxml.jackson.module:jackson-module-paranamer" />
+    <option featureType="dependencySupport" implementationName="java:com.sun.jersey:jersey-core" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.hadoop:hadoop-mapreduce-client-app" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.parquet:parquet-common" />
+    <option featureType="dependencySupport" implementationName="java:com.clearspring.analytics:stream" />
+    <option featureType="dependencySupport" implementationName="java:net.minidev:json-smart" />
+    <option featureType="dependencySupport" implementationName="java:javax.annotation:javax.annotation-api" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.hive:hive-common" />
+    <option featureType="dependencySupport" implementationName="java:com.briup:env-gather-interface" />
+    <option featureType="dependencySupport" implementationName="java:org.eclipse.jetty:jetty-util-ajax" />
+    <option featureType="dependencySupport" implementationName="java:org.eclipse.jetty:jetty-util" />
+    <option featureType="dependencySupport" implementationName="java:javax.xml.stream:stax-api" />
+    <option featureType="dependencySupport" implementationName="java:javax.servlet:javax.servlet-api" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.curator:curator-framework" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.hive.shims:hive-shims-common" />
+    <option featureType="dependencySupport" implementationName="java:log4j:log4j" />
+    <option featureType="dependencySupport" implementationName="java:com.yammer.metrics:metrics-core" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.logging.log4j:log4j-api" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.hadoop:hadoop-yarn-common" />
+    <option featureType="dependencySupport" implementationName="java:com.sun.jersey:jersey-server" />
+    <option featureType="dependencySupport" implementationName="java:io.netty:netty-all" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.hadoop:hadoop-hdfs" />
+    <option featureType="dependencySupport" implementationName="java:org.javassist:javassist" />
+    <option featureType="dependencySupport" implementationName="java:javax.servlet.jsp:javax.servlet.jsp-api" />
+    <option featureType="dependencySupport" implementationName="java:org.hamcrest:hamcrest-core" />
+    <option featureType="dependencySupport" implementationName="java:org.json4s:json4s-scalap_2.11" />
+    <option featureType="dependencySupport" implementationName="java:org.codehaus.jackson:jackson-mapper-asl" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.spark:spark-sql_2.11" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.kerby:kerb-identity" />
+    <option featureType="dependencySupport" implementationName="java:commons-pool:commons-pool" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.hive:hive-jdbc" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.hadoop:hadoop-mapreduce-client-common" />
+    <option featureType="dependencySupport" implementationName="java:commons-io:commons-io" />
+    <option featureType="dependencySupport" implementationName="java:javax.jdo:jdo-api" />
+    <option featureType="dependencySupport" implementationName="java:javax.mail:mail" />
+    <option featureType="dependencySupport" implementationName="java:org.glassfish.hk2:hk2-api" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.hbase:hbase-procedure" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.htrace:htrace-core" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.hadoop:hadoop-mapreduce-client-jobclient" />
+    <option featureType="dependencySupport" implementationName="java:org.jruby.joni:joni" />
+    <option featureType="dependencySupport" implementationName="java:org.scala-lang:scala-library" />
+    <option featureType="dependencySupport" implementationName="java:com.google.errorprone:error_prone_annotations" />
+    <option featureType="dependencySupport" implementationName="java:org.codehaus.jackson:jackson-xc" />
+    <option featureType="dependencySupport" implementationName="java:org.objenesis:objenesis" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.hive:hive-shims" />
+    <option featureType="dependencySupport" implementationName="java:com.jcraft:jsch" />
+    <option featureType="dependencySupport" implementationName="java:junit:junit" />
+    <option featureType="dependencySupport" implementationName="java:com.lmax:disruptor" />
+    <option featureType="dependencySupport" implementationName="java:com.sun.xml.bind:jaxb-impl" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.hive:hive-service" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.calcite:calcite-linq4j" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.spark:spark-sql-kafka-0-10_2.11" />
+    <option featureType="dependencySupport" implementationName="java:org.eclipse.jetty:jetty-webapp" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.hbase:hbase-prefix-tree" />
+    <option featureType="dependencySupport" implementationName="java:org.codehaus.jackson:jackson-jaxrs" />
+    <option featureType="dependencySupport" implementationName="java:net.sf.json-lib:json-lib" />
+    <option featureType="dependencySupport" implementationName="java:javax.transaction:transaction-api" />
+    <option featureType="dependencySupport" implementationName="java:com.google.protobuf:protobuf-java" />
+    <option featureType="dependencySupport" implementationName="java:org.glassfish.jersey.media:jersey-media-jaxb" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.hadoop:hadoop-common" />
+    <option featureType="dependencySupport" implementationName="java:org.bouncycastle:bcprov-jdk15on" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.httpcomponents:httpcore" />
+    <option featureType="dependencySupport" implementationName="java:com.nimbusds:nimbus-jose-jwt" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.curator:curator-recipes" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.hbase:hbase-hadoop2-compat" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.commons:commons-lang3" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.hadoop:hadoop-client" />
+    <option featureType="dependencySupport" implementationName="java:xmlenc:xmlenc" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.hadoop:hadoop-hdfs-client" />
+    <option featureType="dependencySupport" implementationName="java:org.json:json" />
+    <option featureType="dependencySupport" implementationName="java:com.sun.jersey.contribs:jersey-guice" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.kerby:kerb-common" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.geronimo.specs:geronimo-annotation_1.0_spec" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.hbase:hbase-metrics-api" />
+    <option featureType="dependencySupport" implementationName="java:commons-collections:commons-collections" />
+    <option featureType="dependencySupport" implementationName="java:org.codehaus.groovy:groovy-all" />
+    <option featureType="dependencySupport" implementationName="java:org.ow2.asm:asm" />
+    <option featureType="dependencySupport" implementationName="java:org.tukaani:xz" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.parquet:parquet-column" />
+    <option featureType="dependencySupport" implementationName="java:com.google.guava:guava" />
+    <option featureType="dependencySupport" implementationName="java:org.datanucleus:datanucleus-api-jdo" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.zookeeper:zookeeper" />
+    <option featureType="dependencySupport" implementationName="java:com.tdunning:json" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.commons:commons-math3" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.twill:twill-api" />
+    <option featureType="dependencySupport" implementationName="java:asm:asm" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.commons:commons-configuration2" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.hbase.thirdparty:hbase-shaded-miscellaneous" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.orc:orc-shims" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.hbase:hbase-metrics" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.hive:hive-llap-tez" />
+    <option featureType="dependencySupport" implementationName="java:dom4j:dom4j" />
+    <option featureType="dependencySupport" implementationName="java:javax.servlet.jsp:jsp-api" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.kerby:kerby-pkix" />
+    <option featureType="dependencySupport" implementationName="java:org.codehaus.woodstox:stax2-api" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.spark:spark-catalyst_2.11" />
+    <option featureType="dependencySupport" implementationName="java:org.antlr:stringtemplate" />
+    <option featureType="dependencySupport" implementationName="java:org.mortbay.jetty:jetty-sslengine" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.twill:twill-discovery-core" />
+    <option featureType="dependencySupport" implementationName="java:org.mortbay.jetty:jsp-api-2.1" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.ant:ant" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.directory.api:api-util" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.hive:hive-service-rpc" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.hbase.thirdparty:hbase-shaded-protobuf" />
+    <option featureType="dependencySupport" implementationName="java:asm:asm-commons" />
+    <option featureType="dependencySupport" implementationName="java:org.lz4:lz4-java" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.hive:hive-exec" />
+    <option featureType="dependencySupport" implementationName="java:org.spark-project.spark:unused" />
+    <option featureType="dependencySupport" implementationName="java:com.beust:jcommander" />
+    <option featureType="dependencySupport" implementationName="java:commons-cli:commons-cli" />
+    <option featureType="dependencySupport" implementationName="java:org.antlr:antlr-runtime" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.flume:flume-ng-sdk" />
+    <option featureType="dependencySupport" implementationName="java:org.mortbay.jetty:jetty-util" />
+    <option featureType="dependencySupport" implementationName="java:commons-daemon:commons-daemon" />
+    <option featureType="dependencySupport" implementationName="java:com.sun.jersey:jersey-client" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.spark:spark-tags_2.11" />
+    <option featureType="dependencySupport" implementationName="java:tomcat:jasper-runtime" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.ivy:ivy" />
+    <option featureType="dependencySupport" implementationName="java:net.jcip:jcip-annotations" />
+    <option featureType="dependencySupport" implementationName="java:org.eclipse.jetty.aggregate:jetty-all" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.spark:spark-sketch_2.11" />
+    <option featureType="dependencySupport" implementationName="java:io.dropwizard.metrics:metrics-json" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.calcite.avatica:avatica" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.avro:avro-mapred" />
+    <option featureType="dependencySupport" implementationName="java:io.netty:netty" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.twill:twill-common" />
+    <option featureType="dependencySupport" implementationName="java:org.scala-lang.modules:scala-parser-combinators_2.11" />
+    <option featureType="dependencySupport" implementationName="java:com.sun.jersey:jersey-json" />
+    <option featureType="dependencySupport" implementationName="java:net.sf.jpam:jpam" />
+    <option featureType="dependencySupport" implementationName="java:org.eclipse.jetty:jetty-jmx" />
+    <option featureType="dependencySupport" implementationName="java:com.twitter:chill_2.11" />
+    <option featureType="dependencySupport" implementationName="java:org.codehaus.jackson:jackson-core-asl" />
+    <option featureType="dependencySupport" implementationName="java:org.datanucleus:javax.jdo" />
+    <option featureType="dependencySupport" implementationName="java:joda-time:joda-time" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.flume:flume-ng-auth" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.hive:hive-llap-client" />
+    <option featureType="dependencySupport" implementationName="java:com.github.luben:zstd-jni" />
+    <option featureType="dependencySupport" implementationName="java:com.univocity:univocity-parsers" />
+    <option featureType="dependencySupport" implementationName="java:org.antlr:antlr4-runtime" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.hive.shims:hive-shims-0.20S" />
+    <option featureType="dependencySupport" implementationName="java:org.json4s:json4s-core_2.11" />
+    <option featureType="dependencySupport" implementationName="java:org.glassfish.jersey.core:jersey-server" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.mina:mina-core" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.kerby:kerby-asn1" />
+    <option featureType="dependencySupport" implementationName="java:com.fasterxml.jackson.module:jackson-module-jaxb-annotations" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.spark:spark-network-common_2.11" />
+    <option featureType="dependencySupport" implementationName="java:com.google.inject.extensions:guice-servlet" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.spark:spark-kvstore_2.11" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.velocity:velocity" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.geronimo.specs:geronimo-jta_1.1_spec" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.hive:hive-serde" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.hive.shims:hive-shims-0.23" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.hbase:hbase-server" />
+    <option featureType="dependencySupport" implementationName="java:commons-logging:commons-logging" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.logging.log4j:log4j-web" />
+    <option featureType="dependencySupport" implementationName="java:org.xerial.snappy:snappy-java" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.derby:derby" />
+    <option featureType="dependencySupport" implementationName="java:javax.xml.bind:jaxb-api" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.kerby:kerb-client" />
+    <option featureType="dependencySupport" implementationName="java:org.eclipse.jetty:jetty-server" />
+    <option featureType="dependencySupport" implementationName="java:org.mortbay.jetty:jsp-2.1" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.parquet:parquet-format" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.hadoop:hadoop-yarn-api" />
+    <option featureType="dependencySupport" implementationName="java:com.sun.jersey:jersey-servlet" />
+    <option featureType="dependencySupport" implementationName="java:asm:asm-tree" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.kafka:kafka-clients" />
+    <option featureType="dependencySupport" implementationName="java:org.mortbay.jetty:jetty" />
+    <option featureType="dependencySupport" implementationName="java:org.jamon:jamon-runtime" />
+    <option featureType="dependencySupport" implementationName="java:aopalliance:aopalliance" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.flume:flume-ng-core" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.hive:hive-vector-code-gen" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.orc:orc-core" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.hive.shims:hive-shims-scheduler" />
+    <option featureType="dependencySupport" implementationName="java:org.eclipse.jetty.orbit:javax.servlet" />
+    <option featureType="dependencySupport" implementationName="java:ant:ant" />
+    <option featureType="dependencySupport" implementationName="java:com.google.code.findbugs:jsr305" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.hive:hive-llap-common" />
+    <option featureType="dependencySupport" implementationName="java:org.jodd:jodd-core" />
+    <option featureType="dependencySupport" implementationName="java:org.eclipse.jetty:jetty-io" />
+    <option featureType="dependencySupport" implementationName="java:com.googlecode.javaewah:JavaEWAH" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.hadoop:hadoop-mapreduce-client-core" />
+    <option featureType="dependencySupport" implementationName="java:commons-beanutils:commons-beanutils" />
+    <option featureType="dependencySupport" implementationName="java:net.razorvine:pyrolite" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.hbase:hbase-zookeeper" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.hbase:hbase-hadoop-compat" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.spark:spark-core_2.11" />
+    <option featureType="dependencySupport" implementationName="java:commons-dbcp:commons-dbcp" />
+    <option featureType="dependencySupport" implementationName="java:commons-digester:commons-digester" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.kerby:kerby-xdr" />
+    <option featureType="dependencySupport" implementationName="java:com.fasterxml.woodstox:woodstox-core" />
+    <option featureType="dependencySupport" implementationName="java:org.glassfish.hk2:hk2-utils" />
+    <option featureType="dependencySupport" implementationName="java:org.roaringbitmap:shims" />
+    <option featureType="dependencySupport" implementationName="java:org.glassfish.jersey.containers:jersey-container-servlet-core" />
+    <option featureType="dependencySupport" implementationName="java:org.slf4j:slf4j-log4j12" />
+    <option featureType="dependencySupport" implementationName="java:org.scala-lang:scala-reflect" />
+    <option featureType="dependencySupport" implementationName="java:org.openjdk.jol:jol-core" />
+    <option featureType="dependencySupport" implementationName="java:org.apache.kerby:kerb-util" />
+  </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
@@ -229,64 +663,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="LAST_COMMIT_MESSAGE" value="" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="249" y="0" key="#Project_Structure" timestamp="1621179445222">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="249" y="0" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1621179445222" />
-    <state x="223" y="70" width="1089" height="709" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1621175740344">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="223" y="70" width="1089" height="709" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1621175740344" />
-    <state x="515" y="332" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog" timestamp="1621179426282">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="515" y="332" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog/0.0.1536.824@0.0.1536.824" timestamp="1621179426282" />
-    <state x="147" y="65" key="DiffContextDialog" timestamp="1621342980544">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="147" y="65" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1621342980544" />
-    <state x="549" y="170" key="FileChooserDialogImpl" timestamp="1621343689226">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="549" y="170" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1621343689226" />
-    <state width="1493" height="218" key="GridCell.Tab.0.bottom" timestamp="1621183800491">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="218" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1621183800491" />
-    <state width="1493" height="218" key="GridCell.Tab.0.center" timestamp="1621183800490">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="218" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1621183800490" />
-    <state width="1493" height="218" key="GridCell.Tab.0.left" timestamp="1621183800489">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="218" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1621183800489" />
-    <state width="1493" height="218" key="GridCell.Tab.0.right" timestamp="1621183800490">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="218" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1621183800490" />
-    <state x="408" y="121" key="NewModule_or_Project.wizard" timestamp="1621178684049">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="408" y="121" key="NewModule_or_Project.wizard/0.0.1536.824@0.0.1536.824" timestamp="1621178684049" />
-    <state x="249" y="0" key="SettingsEditor" timestamp="1621345750407">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1621345750407" />
-    <state x="361" y="148" key="Vcs.Push.Dialog.v2" timestamp="1621346423759">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="361" y="148" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1621346423759" />
-    <state x="575" y="328" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1621346100031">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="575" y="328" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1621346100031" />
-    <state x="178" y="55" key="new project wizard" timestamp="1621175776353">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="178" y="55" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1621175776353" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />

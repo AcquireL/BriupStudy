@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/BriupStudy.iml" filepath="$PROJECT_DIR$/.idea/BriupStudy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BriupStudy.iml" filepath="$PROJECT_DIR$/BriupStudy.iml" />
       <module fileurl="file://$PROJECT_DIR$/ECJTU_GRMS/ECJTU_GRMS.iml" filepath="$PROJECT_DIR$/ECJTU_GRMS/ECJTU_GRMS.iml" />
       <module fileurl="file://$PROJECT_DIR$/ECJTU_Hadoop_Ecosphere/ECJTU_Hadoop_Ecosphere.iml" filepath="$PROJECT_DIR$/ECJTU_Hadoop_Ecosphere/ECJTU_Hadoop_Ecosphere.iml" />
       <module fileurl="file://$PROJECT_DIR$/ECJTU_Scala/ECJTU_Scala.iml" filepath="$PROJECT_DIR$/ECJTU_Scala/ECJTU_Scala.iml" />
