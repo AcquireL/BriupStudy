@@ -69,70 +69,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="849936e3-0635-4dcf-9165-0cc528f4b77b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__dom4j_dom4j_1_6_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__dom4j_dom4j_1_6_1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_16.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_16.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__xml_apis_xml_apis_1_0_b2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xml_apis_xml_apis_1_0_b2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ECJTU_GRMS/ECJTU_GRMS.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ECJTU_GRMS/ECJTU_GRMS.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ECJTU_GRMS/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ECJTU_GRMS/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_GRMS/target/ECJTU_GRMS-1.0-SNAPSHOT.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_GRMS/target/maven-archiver/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_GRMS/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_GRMS/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_GRMS/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/ECJTU_Hadoop_Ecosphere/ECJTU_Hadoop_Ecosphere.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ECJTU_Hadoop_Ecosphere/ECJTU_Hadoop_Ecosphere.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ECJTU_Hadoop_Ecosphere/hive/hive.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ECJTU_Hadoop_Ecosphere/hive/hive.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Hadoop_Ecosphere/hive/target/classes/com/briup/jdbc/HiveJDBCTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Hadoop_Ecosphere/hive/target/classes/com/briup/udf/GetArea.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Hadoop_Ecosphere/hive/target/hive-1.0-SNAPSHOT.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Hadoop_Ecosphere/hive/target/maven-archiver/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Hadoop_Ecosphere/hive/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Hadoop_Ecosphere/hive/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Hadoop_Ecosphere/hive/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Hadoop_Ecosphere/hive/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ECJTU_Hadoop_Ecosphere/hive/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ECJTU_Hadoop_Ecosphere/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ECJTU_Hadoop_Ecosphere/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Hadoop_Ecosphere/zookeeper/target/classes/com/briup/basic/CreateTest$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Hadoop_Ecosphere/zookeeper/target/classes/com/briup/basic/CreateTest$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Hadoop_Ecosphere/zookeeper/target/classes/com/briup/basic/CreateTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Hadoop_Ecosphere/zookeeper/target/classes/com/briup/basic/DeleteTest$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Hadoop_Ecosphere/zookeeper/target/classes/com/briup/basic/DeleteTest$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Hadoop_Ecosphere/zookeeper/target/classes/com/briup/basic/DeleteTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Hadoop_Ecosphere/zookeeper/target/classes/com/briup/basic/ExistsTest$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Hadoop_Ecosphere/zookeeper/target/classes/com/briup/basic/ExistsTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Hadoop_Ecosphere/zookeeper/target/classes/com/briup/basic/ReadTest$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Hadoop_Ecosphere/zookeeper/target/classes/com/briup/basic/ReadTest$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Hadoop_Ecosphere/zookeeper/target/classes/com/briup/basic/ReadTest$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Hadoop_Ecosphere/zookeeper/target/classes/com/briup/basic/ReadTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Hadoop_Ecosphere/zookeeper/target/classes/com/briup/basic/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Hadoop_Ecosphere/zookeeper/target/classes/com/briup/basic/WriteTest$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Hadoop_Ecosphere/zookeeper/target/classes/com/briup/basic/WriteTest$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Hadoop_Ecosphere/zookeeper/target/classes/com/briup/basic/WriteTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Hadoop_Ecosphere/zookeeper/target/classes/com/briup/basic/ZKConnection.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Hadoop_Ecosphere/zookeeper/target/classes/com/briup/common/ConnectionWatcher.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Hadoop_Ecosphere/zookeeper/target/classes/com/briup/zookeeper/config/ActiveKeyValueStore.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Hadoop_Ecosphere/zookeeper/target/classes/com/briup/zookeeper/config/Executor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Hadoop_Ecosphere/zookeeper/target/classes/com/briup/zookeeper/config/Server.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Hadoop_Ecosphere/zookeeper/target/classes/com/briup/zookeeper/config/ServerConfig.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Hadoop_Ecosphere/zookeeper/target/classes/com/briup/zookeeper/lock/WriteLock$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Hadoop_Ecosphere/zookeeper/target/classes/com/briup/zookeeper/lock/WriteLock.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/ECJTU_Hadoop_Ecosphere/zookeeper/zookeeper.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ECJTU_Hadoop_Ecosphere/zookeeper/zookeeper.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/ECJTU_Spark_Ecosphere.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/ECJTU_Spark_Ecosphere.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Scala/Scala.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Scala/Scala.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Scala/target/classes.timestamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Scala/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Scala/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/Spark/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/target/ECJTU_Spark_Ecosphere-1.0-SNAPSHOT.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/target/maven-archiver/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECJTU_Spark_Ecosphere/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/env-gather/target/classes/com/briup/env/client/ClientImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/env-gather/target/classes/com/briup/env/client/GatherImpTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/env-gather/target/classes/com/briup/env/client/GatherImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/env-gather/target/classes/com/briup/env/mian/ClientMain.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/env-gather/target/classes/com/briup/env/mian/ServerMain.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/env-gather/target/classes/com/briup/env/server/DBStoreImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/env-gather/target/classes/com/briup/env/server/ServerImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/env-gather/target/classes/com/briup/env/server/ServerThreadImpl$Handler.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/env-gather/target/classes/com/briup/env/server/ServerThreadImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/env-gather/target/classes/com/briup/env/test/HelloTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/env-gather/target/classes/data-file" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -190,8 +142,13 @@
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1563528296965" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.23771581" />
     <property name="project.structure.side.proportion" value="0.5051282" />
@@ -218,24 +175,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test1" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.briup.demo.chap2.Test1" />
-      <module name="ECJTU_Scala" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.briup.demo.chap2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.Test1" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
@@ -261,8 +200,16 @@
       <workItem from="1621178115192" duration="4950000" />
       <workItem from="1621342951054" duration="806000" />
       <workItem from="1621345549759" duration="2331000" />
-      <workItem from="1647434375060" duration="740000" />
+      <workItem from="1647434375060" duration="1895000" />
     </task>
+    <task id="LOCAL-00001" summary="delete unnessary file">
+      <created>1647435209310</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1647435209310</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TodoView">
@@ -662,7 +609,8 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="delete unnessary file" />
+    <option name="LAST_COMMIT_MESSAGE" value="delete unnessary file" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
